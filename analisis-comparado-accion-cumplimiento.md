@@ -1,631 +1,1355 @@
-# Análisis Comparado Doctoral: Mecanismos de Acción de Cumplimiento y Equivalentes Funcionales en América Latina y Jurisdicciones Seleccionadas
+# ⚔️ COMPARATIVO OPERATIVO: ACCIONES DE CUMPLIMIENTO EN AMÉRICA LATINA
+## Manual Táctico para Litigante Constitucional
 
-> **Contexto de origen**: Este análisis se elabora en el marco del estudio sobre la posibilidad de configurar un Estado de Cosas Inconstitucional (ECI) en Bolivia en relación con la aplicación del beneficio establecido en la **Ley 1886** para personas adultas mayores, tomando como hecho institucional de referencia la declaración presidencial de 2022: *"en 2022, gracias a la Ley 1886, 3,4 millones de nuestras abuelitas y abuelitos, se beneficiaron con el 20% de descuento en sus facturas de luz, ahorrando más de Bs 10 millones"* (Presidente Luis Arce, redes sociales, 2022).
-
----
-
-## Nota Metodológica Preliminar (Ancla Epistemológica)
-
-Este análisis adopta como principios rectores irrenunciables los siguientes estándares normativos:
-
-1. **Interpretación constitucional conforme a tratados de DD.HH. más favorables** (*pro homine*), que informa el bloque de constitucionalidad en todos los sistemas examinados.
-2. **Exigencia de tutela efectiva con celeridad y rechazo del formalismo defensivo**, que la doctrina procesal constitucional contemporánea reconoce como condición de legitimidad de cualquier mecanismo de garantía jurisdiccional (Ley N° 254, art. 3, Bolivia).
-3. **Bloque de constitucionalidad** como criterio de jerarquía normativa que integra los tratados internacionales de derechos humanos al parámetro de control constitucional.
-
-> **Advertencia de verificabilidad**: Las referencias jurisprudenciales y normativas citadas corresponden a instrumentos públicamente disponibles en los repositorios oficiales de cada país. Donde la verificación independiente no ha podido ser completada con certeza absoluta, se indica expresamente como **"pendiente de verificación"** con la ruta de verificación recomendada.
+> **Propósito**: Este documento NO describe sistemas. Identifica qué país ofrece el modelo más útil para **maximizar presión, coerción y cumplimiento real**, y cómo adaptar esos estándares a otros sistemas.
 
 ---
 
-## 0. Definición Funcional del Objeto Comparado
+## I. DEFINICIÓN FUNCIONAL DE "AC" DESDE EL LITIGANTE
 
-A efectos de este análisis, se entiende por **Acción de Cumplimiento (AC)** todo mecanismo judicial —autónomo o integrado en una garantía más amplia— que permite a un sujeto legitimado exigir ante un órgano jurisdiccional el cumplimiento de un mandato normativo claro, expreso y exigible (constitucional, legal, reglamentario o administrativo) frente a la omisión, resistencia o incumplimiento de una autoridad pública o, en ciertos sistemas, de un particular que ejerce funciones públicas o presta servicios de interés general.
+### Qué ES una Acción de Cumplimiento (para efectos de este análisis):
 
-El mecanismo se distingue del amparo clásico en que su objeto no es la protección de un derecho subjetivo frente a un acto lesivo, sino la **ejecución de una obligación normativa preexistente** cuyo contenido no requiere integración judicial sino simplemente cumplimiento. Esta distinción, sin embargo, es porosa en la práctica: varios sistemas examinados utilizan el amparo como vehículo funcional de la AC cuando no existe un mecanismo autónomo.
+Mecanismo procesal destinado a:
+- **Obligar** a autoridad pública (o particular con función pública) a cumplir mandato claro
+- **Corregir** omisión ilegal
+- **Ejecutar** derecho ya reconocido normativamente
+- **Superar** resistencia administrativa
 
----
+### Qué NO ES (diferenciación táctica):
 
-## I. Bolivia: El Sistema de Referencia
+| Mecanismo | Diferencia clave | Por qué importa |
+|-----------|------------------|-----------------|
+| **Amparo clásico** | Protege derecho subjetivo frente a acto lesivo | Requiere probar violación, no solo incumplimiento |
+| **Control abstracto** | Evalúa constitucionalidad de norma | No produce orden de hacer específica |
+| **Acción declarativa** | Declara existencia de derecho | No ordena cumplimiento ni tiene coerción |
 
-La **Acción de Cumplimiento** boliviana está regulada en el artículo 134 de la Constitución Política del Estado (CPE, 2009) y desarrollada en los artículos 64 a 70 del Código Procesal Constitucional (Ley N° 254, 2012). El artículo 134 CPE establece que la AC procede cuando una autoridad pública o persona particular omite el cumplimiento de disposiciones constitucionales o legales. El artículo 65 de la Ley N° 254 precisa que la AC tiene por objeto garantizar la ejecución de la norma omitida. El artículo 3 de la misma ley establece como principios rectores la **celeridad** y el **no formalismo**, que operan como mandatos interpretativos vinculantes para el juez constitucional.
-
-El TCP ha desarrollado, en su jurisprudencia, el estándar de "mandato claro, expreso y exigible" como requisito de procedencia, y ha reconocido la posibilidad de adoptar medidas de carácter estructural cuando la naturaleza del incumplimiento así lo requiere.
-
----
-
-## II. Matriz Comparativa General
-
-| **País** | **Nombre del mecanismo** | **Base constitucional** | **Base legal/procesal** | **Finalidad** | **Legitimación activa** | **Legitimación pasiva** | **Requisitos de procedencia** | **Estándar probatorio** | **Medidas cautelares** | **Remedios/órdenes** | **Ejecución/coerción** | **Tiempos aprox.** | **Costas** | **Jurisprudencia líder** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Bolivia** | Acción de Cumplimiento | Art. 134 CPE (2009) | Arts. 64–70, Ley N° 254 (2012) | Cumplimiento normativo + protección de derechos | Toda persona natural o jurídica | Autoridades públicas y particulares con función pública | Mandato claro, expreso, exigible; omisión verificable | Documental; carga en el accionante | Sí (medida cautelar innominada) | Órdenes de hacer; plazos; seguimiento | Desacato; responsabilidad disciplinaria | 5–10 días hábiles | Sin costas para el accionante | SCP 0258/2011-R; SCP 1422/2012 |
-| **Colombia** | Acción de Cumplimiento | Art. 87 CP (1991) | Ley 393 de 1997 | Cumplimiento de ley o acto administrativo | Toda persona | Autoridades públicas y particulares con función pública | Renuencia previa; mandato imperativo; no sustitución de otras acciones | Documental; presunción de renuencia | Sí (medida cautelar) | Órdenes de hacer; plazos; seguimiento | Desacato; multas; arresto | 20 días hábiles (1ª instancia) | Sin costas | CE Sec. Quinta, Exp. 2001-0005; T-025/2004 (ECI) |
-| **Perú** | Proceso de Cumplimiento | Art. 200.6 CP (1993) | Arts. 65–74, Ley 31307 (2021) | Cumplimiento de norma legal o acto administrativo | Toda persona | Autoridades públicas y funcionarios | Mandato cierto, claro, no sujeto a controversia; requerimiento previo | Documental; carga en el demandante | Sí (medida cautelar) | Órdenes de hacer; plazos | Multas progresivas; destitución | 5 días (admisión); 60 días (sentencia) | Sin costas | STC Exp. 0168-2005-PC/TC; STC Exp. 2616-2004-AC/TC |
-| **Argentina** | Amparo por mora / Amparo constitucional | Arts. 43, 75.22 CN (1994) | Ley 16.986 (1966); Ley 19.549 art. 28 | Protección de derechos + cumplimiento normativo | Afectado, defensor del pueblo, asociaciones | Autoridades públicas (y privados en amparo) | Acto u omisión manifiestamente arbitraria; daño actual o inminente | Documental; urgencia | Sí (medida cautelar) | Órdenes de hacer/no hacer; plazos | Astreintes; desacato | Variable (urgencia: días; ordinario: meses) | Posibles costas | CSJN, "Halabi" (2009); "Q.C., S.Y." (2012) |
-| **Brasil** | Mandado de Injunção / Mandado de Segurança | Arts. 5.LXIX, 5.LXXI CF (1988) | Lei 12.016/2009 (MS); Lei 13.300/2016 (MI) | Cumplimiento de norma constitucional omitida (MI); protección de derecho líquido y cierto (MS) | Toda persona (MS); toda persona afectada por omisión normativa (MI) | Autoridades públicas y privados con función pública | Derecho líquido y cierto (MS); omisión normativa que impide ejercicio de derecho (MI) | Documental (prueba preconstituida) | Sí (liminar) | Órdenes de hacer; norma supletoria (MI) | Multa diaria (astreinte); prisión por desacato | 120 días (MS ordinario); variable (MI) | Posibles costas | STF, MI 670/2007; STF, MS 22.164/1995; ADPF 347/2015 |
-| **México** | Juicio de Amparo Indirecto | Arts. 103, 107 CPEUM (1917/2011) | Ley de Amparo (2013) | Protección de derechos fundamentales; control de constitucionalidad | Persona agraviada; interés legítimo | Autoridades responsables | Acto de autoridad; agravio personal y directo; interés legítimo | Documental; pericial | Sí (suspensión) | Órdenes de hacer/no hacer; efectos generales | Multas; destitución; responsabilidad penal | Variable (urgente: días; ordinario: meses) | Posibles costas | SCJN, AR 237/2014; ADR 1621/2010 |
-| **Ecuador** | Acción de Incumplimiento | Arts. 93, 436.5 CRE (2008) | Arts. 52–60, LOGJCC (2009) | Cumplimiento de norma o sentencia | Toda persona | Autoridades públicas y privados con función pública | Incumplimiento verificable; requerimiento previo (en algunos casos) | Documental | Sí (medida cautelar) | Órdenes de hacer; plazos; reparación integral | Multas; destitución; responsabilidad penal | 40 días (1ª instancia) | Sin costas | CC, Sentencia N° 001-10-SIS-CC; CC, Sentencia N° 004-13-SAN-CC |
-| **Chile** | Recurso de Protección (equivalente funcional) | Art. 20 CPR (1980) | Auto Acordado CS (1992, mod. 2015) | Protección de derechos constitucionales frente a actos u omisiones arbitrarias | Afectado o cualquier persona en su nombre | Autoridades públicas y privados | Acto u omisión arbitraria o ilegal; amenaza, perturbación o privación de derecho | Documental; urgencia | Sí (orden de no innovar) | Órdenes de hacer/no hacer; restablecimiento del derecho | Desacato; multas | 30 días (interposición); 15 días (fallo) | Posibles costas | CS, Rol 2.182-2013; CS, Rol 4.953-2016 |
-| **Costa Rica** | Recurso de Amparo | Arts. 48, 10 CP (1949) | Ley de la Jurisdicción Constitucional, Ley 7135 (1989) | Protección de derechos fundamentales; control de constitucionalidad | Toda persona | Autoridades públicas y privados con función pública | Violación o amenaza de derecho fundamental | Documental; urgencia | Sí (medida cautelar) | Órdenes de hacer/no hacer; nulidad; reparación | Multas; responsabilidad personal del funcionario | 15 días (urgente); 3 meses (ordinario) | Sin costas | Sala IV, Voto 1739-92; Voto 9685-2000 |
+**Regla de oro**: La AC es el bisturí cuando ya tienes el derecho reconocido y solo necesitas que lo ejecuten.
 
 ---
 
-## III. Capítulos por País
+## II. MATRIZ TÁCTICA COMPARADA
 
-### A. Colombia
+### Tabla Principal (16 columnas)
 
-#### A.1. Arquitectura normativa
-
-La Acción de Cumplimiento colombiana tiene rango constitucional expreso en el artículo 87 de la Constitución Política de 1991, que establece: *"Toda persona podrá acudir ante la autoridad judicial para hacer efectivo el cumplimiento de una ley o un acto administrativo."* Su desarrollo procesal se encuentra en la **Ley 393 de 1997**, que regula en detalle los requisitos de procedencia, el trámite, los remedios y los mecanismos de ejecución. La AC colombiana se integra al bloque de constitucionalidad a través del artículo 93 CP, que incorpora los tratados de derechos humanos ratificados por Colombia como parámetro de interpretación constitucional.
-
-#### A.2. Puerta de entrada procesal
-
-Los requisitos de procedencia establecidos en la Ley 393 de 1997 son: (i) existencia de un mandato imperativo, inobjetable y de obligatorio cumplimiento contenido en una ley o acto administrativo; (ii) renuencia de la autoridad demandada, que debe ser acreditada mediante requerimiento previo; (iii) que la acción no sea utilizada como sustituto de otras acciones judiciales. Las causales típicas de rechazo incluyen la ausencia de mandato claro, la falta de acreditación de la renuencia, y la existencia de otro mecanismo judicial idóneo.
-
-#### A.3. Estilo remedial
-
-La AC colombiana produce órdenes de hacer con plazos específicos. El juez puede ordenar el cumplimiento inmediato o diferido, establecer plazos para la ejecución, y ordenar medidas de seguimiento. La **Sentencia T-025 de 2004** de la Corte Constitucional, aunque técnicamente es una acción de tutela, constituye el referente más elaborado del remedio estructural en el sistema colombiano y el fundamento doctrinal del Estado de Cosas Inconstitucional (ECI).
-
-#### A.4. Ejecución real
-
-La Ley 393 de 1997 establece mecanismos de coerción que incluyen el desacato, las multas y, en casos extremos, el arresto. El artículo 27 de la misma ley establece que el incumplimiento de la orden judicial puede dar lugar a responsabilidad disciplinaria y penal del funcionario.
-
-#### A.5. Casos emblemáticos
-
-- **T-025/2004 (Corte Constitucional)**: Declaración del ECI por desplazamiento forzado. *Ratio decidendi*: cuando existe violación masiva de derechos con causas estructurales, la respuesta judicial debe intervenir en la arquitectura institucional que produce la violación. Remedio: órdenes estructurales con planes de acción, asignación presupuestal y mecanismos de seguimiento con participación de la sociedad civil.
-- **CE Sección Quinta, Exp. 2001-0005**: Estándar de "mandato imperativo e inobjetable" en la AC. *(Pendiente de verificación en: consejodeestado.gov.co)*
-
-#### A.6. Alertas de litigante
-
-El principal riesgo es la exigencia de "mandato imperativo e inobjetable": si la norma otorga discrecionalidad a la administración, la acción será rechazada. Para casos de naturaleza estructural, la **tutela** es un vehículo más adecuado que la AC, porque permite adoptar órdenes más complejas y mecanismos de seguimiento más robustos.
+| País | Nombre del mecanismo | Base constitucional | Ley reglamentaria | ¿Exige "mandato claro"? | ¿Admite omisión estructural? | Legitimación | ¿Exige agotamiento previo? | Medidas cautelares | ¿Multa coercitiva? | ¿Desacato penal? | ¿Seguimiento judicial? | Tiempo promedio | Dificultad probatoria | Riesgo de rechazo formal | Potencial estructural | Nivel real de ejecución |
+|------|----------------------|---------------------|-------------------|-------------------------|------------------------------|--------------|---------------------------|-------------------|-------------------|-----------------|----------------------|-----------------|----------------------|-------------------------|----------------------|------------------------|
+| **Argentina** | Amparo por mora / Amparo constitucional | Arts. 43, 75.22 CN | Ley 16.986; Ley 19.549 art. 28 | Sí (arbitrariedad manifiesta) | Sí (caso Mendoza) | Amplia (afectado, DP, asociaciones) | No estricto | Sí (cautelar innovativa) | **Sí (astreintes fuertes)** | Sí | Sí (caso Mendoza) | 3-6 meses | Media | Medio | **Alto** | **ALTO** - Astreintes funcionan |
+| **Colombia** | Acción de Cumplimiento / Tutela | Art. 87 CP | Ley 393/1997 | Sí (imperativo e inobjetable) | **Sí (ECI T-025)** | Amplia | Sí (renuencia previa) | Sí | Sí (multas) | **Sí (arresto)** | **Sí (salas de seguimiento)** | 20 días (1ª inst.) | Media-Alta | Alto | **Muy Alto** | **MEDIO** - Diseño excelente, ejecución lenta |
+| **Brasil** | Mandado de Segurança / Mandado de Injunção | Arts. 5.LXIX, 5.LXXI CF | Lei 12.016/2009; Lei 13.300/2016 | Sí (direito líquido e certo) | Sí (ADPF 347) | Amplia | No | Sí (liminar) | **Sí (multa diária)** | Sí (excepcional) | Sí | 120 días (MS) | **Alta (prueba preconstituida)** | Alto | Alto | **MEDIO** - Fuerte en individual, débil en estructural |
+| **México** | Juicio de Amparo Indirecto | Arts. 103, 107 CPEUM | Ley de Amparo 2013 | Sí (acto de autoridad) | Parcial | Amplia (interés legítimo) | Sí (con excepciones) | Sí (suspensión) | Sí (multas) | Sí (destitución) | Parcial | Variable | Media | **Alto** | Medio | **MEDIO** - Formalismo excesivo |
+| **Perú** | Proceso de Cumplimiento | Art. 200.6 CP | Ley 31307/2021 | **Sí (5 requisitos estrictos)** | Limitado | Amplia | Sí (requerimiento previo) | Sí | Sí (multas progresivas) | Sí (destitución) | Limitado | 60 días | Media | Medio-Alto | Medio | **MEDIO** - Funciona pero limitado |
+| **Ecuador** | Acción de Incumplimiento | Arts. 93, 436.5 CRE | LOGJCC 2009 | Sí | Sí | Amplia | Parcial | Sí | Sí (multas) | **Sí (destitución)** | Sí | 40 días | Baja | Bajo | **Alto** | **ALTO** - Reparación integral |
+| **Chile** | Recurso de Protección | Art. 20 CPR | Auto Acordado CS 1992 | Sí (arbitrario o ilegal) | Limitado | Amplia | No | Sí (no innovar) | Sí | Sí | Limitado | 15-30 días | Baja | **Medio (plazo 30 días)** | Bajo | **ALTO** - Rápido y efectivo |
+| **Costa Rica** | Recurso de Amparo | Arts. 48, 10 CP | Ley 7135/1989 | No estricto | Sí | **Muy amplia** | **No** | Sí | Sí | **Sí (responsabilidad personal)** | Sí | 15 días (urgente) | **Baja** | **Bajo** | Alto | **MUY ALTO** - El más efectivo |
+| **España** | Recurso de Amparo + Ejecución forzosa | Art. 53.2 CE | LOTC; LJCA | Sí | Limitado | Restringida | Sí (subsidiariedad) | Sí | **Sí (multas coercitivas)** | Sí | Sí | 6-12 meses | Alta | Alto | Medio | **MEDIO** - Lento pero coercitivo |
+| **Sudáfrica** | Constitutional Enforcement + Structural Interdicts | Secs. 38, 172 Constitution | Rules of Court | No estricto | **Sí (muy desarrollado)** | **Muy amplia** | No estricto | Sí | Sí | **Sí (contempt of court)** | **Sí (supervisory jurisdiction)** | Variable | Media | Bajo | **Muy Alto** | **ALTO** - Modelo de referencia mundial |
 
 ---
 
-### B. Perú
-
-#### B.1. Arquitectura normativa
-
-El Proceso de Cumplimiento peruano tiene base constitucional en el artículo 200, inciso 6, de la Constitución Política de 1993. Su desarrollo procesal se encuentra en los artículos 65 a 74 del **Código Procesal Constitucional** (Ley 31307 de 2021, que sustituyó a la Ley 28237 de 2004).
-
-#### B.2. Puerta de entrada procesal
-
-El TC peruano ha establecido, en la **STC Exp. 0168-2005-PC/TC**, los requisitos mínimos del mandato: (i) ser un mandato vigente; (ii) ser un mandato cierto y claro; (iii) no estar sujeto a controversia compleja ni a interpretaciones dispares; (iv) ser de ineludible y obligatorio cumplimiento; (v) ser incondicional. El requerimiento previo a la autoridad es un requisito de procedencia que debe acreditarse documentalmente.
-
-#### B.3. Estilo remedial
-
-El proceso de cumplimiento peruano produce órdenes de hacer con plazos específicos. El TC ha reconocido la posibilidad de adoptar medidas de seguimiento y ha establecido que el juez puede ordenar la adopción de medidas complementarias para garantizar la efectividad de la orden principal.
-
-#### B.4. Ejecución real
-
-El Código Procesal Constitucional establece **multas progresivas** para el caso de incumplimiento de las órdenes judiciales, y prevé la posibilidad de destitución del funcionario responsable.
-
-#### B.5. Casos emblemáticos
-
-- **STC Exp. 0168-2005-PC/TC**: Caso fundacional del proceso de cumplimiento. Establece los cinco requisitos mínimos del mandato.
-- **STC Exp. 2616-2004-AC/TC**: Cumplimiento de norma que establecía beneficios para un grupo específico de personas. Relevante por analogía con el caso de la Ley 1886 boliviana.
-
-#### B.6. Alertas de litigante
-
-El principal riesgo es la exigencia de que el mandato sea "cierto y claro" y no esté sujeto a "controversia compleja": si la aplicación de la norma requiere interpretación o integración, el proceso será rechazado. La estrategia probatoria debe concentrarse en demostrar que el mandato es inequívoco y que el incumplimiento es verificable documentalmente.
+## III. ANÁLISIS POR PAÍS (ENFOQUE LITIGANTE)
 
 ---
 
-### C. Argentina
+### 🇦🇷 ARGENTINA
 
-#### C.1. Arquitectura normativa
+#### A. CÓMO GANAR EL CASO
 
-Argentina no tiene una Acción de Cumplimiento autónoma con ese nombre. El equivalente funcional principal es el **amparo por mora** regulado en el artículo 28 de la Ley 19.549 de Procedimientos Administrativos, y el **amparo constitucional** del artículo 43 de la Constitución Nacional (reforma de 1994). El artículo 75, inciso 22, de la CN incorpora los tratados de derechos humanos con jerarquía constitucional.
+**Qué probar exactamente:**
+1. **Existencia de obligación normativa clara** (ley, decreto, resolución)
+2. **Omisión o mora administrativa verificable** (silencio, negativa expresa, dilación)
+3. **Arbitrariedad o ilegalidad manifiesta** de la omisión
+4. **Daño actual o inminente** al derecho del accionante
+5. **Inexistencia de otra vía más idónea** (o que la vía existente es ineficaz)
 
-#### C.2. Puerta de entrada procesal
+**Cómo formular el mandato claro:**
+```
+"La Ley [X], artículo [Y], establece que [autoridad] DEBE [acción específica] 
+en favor de [beneficiarios]. El mandato es:
+- Vigente (no derogado)
+- Operativo (no requiere reglamentación adicional)
+- Incondicional (no sujeto a disponibilidad presupuestaria discrecional)
+- Exigible (el plazo de cumplimiento ha vencido o no existe plazo)"
+```
 
-El amparo constitucional procede cuando existe un acto u omisión de autoridades públicas o de particulares que lesione, restrinja, altere o amenace derechos y garantías reconocidos por la Constitución, los tratados o las leyes, con **arbitrariedad o ilegalidad manifiesta**. La Ley 16.986 de 1966 regula el amparo y establece como requisito que no exista otro remedio judicial más idóneo.
+**Documentos decisivos:**
+- Norma que establece la obligación (texto completo)
+- Constancia de solicitud administrativa previa (si existe)
+- Prueba de la omisión (silencio, negativa, o acto insuficiente)
+- Prueba del daño (certificados, informes, testimonios)
+- Datos estadísticos de incumplimiento masivo (para casos estructurales)
 
-#### C.3. Estilo remedial
+**Cómo superar "existe otra vía":**
+- Argumentar que la vía administrativa es **ineficaz** (demostrar demoras históricas)
+- Invocar **urgencia** del derecho afectado
+- Citar jurisprudencia que admitió amparo en casos similares
+- Argumentar que la vía ordinaria **no tiene medidas cautelares efectivas**
 
-La jurisprudencia argentina ha desarrollado un estilo remedial progresivamente más estructural en casos de derechos sociales. El caso **"Q.C., S.Y."** (CSJN, 2012) es paradigmático: la Corte ordenó al Gobierno de la Ciudad de Buenos Aires garantizar el acceso a una vivienda digna, estableciendo un plazo y ordenando la presentación de informes periódicos.
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
 
-#### C.4. Ejecución real
+**Errores frecuentes que bloquean:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| No acreditar legitimación | Rechazo in limine | Adjuntar DNI, constancia de afectación directa |
+| Plantear cuestión de "puro derecho" sin urgencia | Derivación a vía ordinaria | Enfatizar daño actual e irreparable |
+| No agotar vía administrativa | Rechazo por prematuridad | Presentar reclamo previo o argumentar inutilidad |
+| Pedir declaración abstracta | Rechazo por falta de caso | Formular petitorio concreto y ejecutable |
 
-El sistema argentino utiliza las **astreintes** (multas coercitivas diarias) como principal mecanismo de coerción. Las astreintes son progresivas y pueden ser significativas en términos económicos. El desacato también está previsto como mecanismo de coerción.
+**Estrategia frente a agotamiento previo:**
+- Presentar **pronto despacho** administrativo antes del amparo
+- Argumentar que el agotamiento es **ritualismo inútil** (citar Corte IDH)
+- Invocar **excepción por urgencia** (art. 43 CN no exige agotamiento)
+- Demostrar **patrón de incumplimiento** que hace inútil la vía administrativa
 
-#### C.5. Casos emblemáticos
+**Cómo estructurar el petitorio:**
+```
+PETITORIO:
+1. Se declare la inconstitucionalidad por omisión de [autoridad] al no cumplir [norma]
+2. Se ordene a [autoridad] que en el plazo de [X] días:
+   a) [Acción específica 1]
+   b) [Acción específica 2]
+3. Se impongan astreintes de $[monto] por cada día de demora
+4. Se ordene la presentación de informes de cumplimiento cada [X] días
+5. Costas al demandado
+```
 
-- **CSJN, "Halabi" (2009)**: Reconocimiento de legitimación activa para acciones colectivas en defensa de derechos de incidencia colectiva.
-- **CSJN, "Q.C., S.Y." (2012)**: Estilo remedial estructural en caso de derechos sociales con mecanismos de seguimiento.
-- **CSJN, "Mendoza" (2008)**: Ejemplo más elaborado de litigio estructural en Argentina (contaminación del Riachuelo), con proceso de seguimiento que continúa hasta la fecha.
+#### C. CÓMO MAXIMIZAR PRESIÓN
 
-#### C.6. Alertas de litigante
+**Solicitud de astreintes (multas coercitivas):**
+```
+"Solicito se impongan astreintes conforme art. 804 CCCN, a razón de $[monto] 
+diarios, a cargo personal del funcionario responsable, desde el vencimiento 
+del plazo de cumplimiento. Las astreintes deben ser:
+- Progresivas (aumentar si persiste incumplimiento)
+- Personales (no trasladables al erario)
+- Ejecutables sin trámite adicional"
+```
 
-El principal riesgo es la exigencia de "arbitrariedad o ilegalidad manifiesta": si la omisión requiere una evaluación compleja de la conducta administrativa, el amparo puede ser rechazado. Para casos de naturaleza colectiva, la legitimación activa debe ser cuidadosamente construida siguiendo los estándares de "Halabi".
+**Invocar desacato:**
+- Advertir en la demanda las consecuencias penales del incumplimiento
+- Citar art. 239 Código Penal (desobediencia)
+- Solicitar que se libre oficio al Ministerio Público si hay incumplimiento
 
----
+**Pedir plan de cumplimiento:**
+```
+"Solicito se ordene al demandado presentar, en el plazo de [X] días, un plan 
+de cumplimiento que incluya:
+- Cronograma de acciones
+- Responsables identificados
+- Indicadores de avance
+- Presupuesto asignado"
+```
 
-### D. Brasil
+**Incorporar estándares internacionales:**
+- Citar Corte IDH: *Baena Ricardo* (obligación de cumplir sentencias)
+- Citar CADH art. 25 (protección judicial efectiva)
+- Citar Observaciones del Comité DESC sobre Argentina
 
-#### D.1. Arquitectura normativa
+#### D. QUÉ REMEDIOS PEDIR ESTRATÉGICAMENTE
 
-Brasil tiene dos mecanismos principales que funcionan como equivalentes de la AC: el **Mandado de Segurança (MS)** y el **Mandado de Injunção (MI)**. El MS, regulado en el artículo 5, inciso LXIX, de la Constitución Federal de 1988 y en la **Lei 12.016 de 2009**, protege "direito líquido e certo" frente a actos ilegales o abusivos de autoridades públicas. El MI, regulado en el artículo 5, inciso LXXI, de la CF y en la **Lei 13.300 de 2016**, procede cuando la falta de norma regulamentadora hace inviable el ejercicio de derechos constitucionales.
+| Tipo de orden | Cuándo pedirla | Ejemplo |
+|---------------|----------------|---------|
+| **Orden puntual** | Caso individual claro | "Otorgar el beneficio X al accionante" |
+| **Orden estructural** | Incumplimiento masivo | "Implementar sistema de aplicación automática" |
+| **Supervisión periódica** | Desconfianza en cumplimiento | "Informes mensuales al juzgado" |
+| **Plazos específicos** | Siempre | "En el plazo de 30 días corridos" |
+| **Indicadores verificables** | Casos complejos | "Cobertura del 100% de beneficiarios registrados" |
 
-#### D.2. Puerta de entrada procesal
+#### E. JURISPRUDENCIA ÚTIL
 
-El MS exige: (i) derecho líquido y cierto, demostrable documentalmente sin dilación probatoria; (ii) acto ilegal o abusivo de autoridad pública o de particular con función pública; (iii) plazo de 120 días desde el conocimiento del acto lesivo. El MI exige: (i) omisión normativa que impide el ejercicio de un derecho constitucional; (ii) que el demandante sea titular del derecho afectado. La exigencia de **"prueba preconstituida"** en el MS es una característica distintiva que limita su uso en casos que requieren producción probatoria compleja.
-
-#### D.3. Estilo remedial
-
-El STF ha evolucionado significativamente en el estilo remedial del MI: a partir del **MI 670/2007** adoptó una postura normativa (el STF establece la norma supletoria aplicable hasta que el legislador actúe). Esta evolución demuestra la capacidad del sistema brasileño para producir remedios de naturaleza estructural frente a omisiones normativas. La **ADPF 347/2015** es el equivalente brasileño del ECI colombiano: el STF declaró el "estado de cosas inconstitucional" del sistema penitenciario brasileño.
-
-#### D.4. Ejecución real
-
-El sistema brasileño utiliza la **multa diária** (astreinte) como principal mecanismo de coerción en el MS. La prisión por desacato está prevista pero es de aplicación excepcional.
-
-#### D.5. Casos emblemáticos
-
-- **STF, MI 670/2007**: Caso fundacional de la postura normativa en el MI. El STF estableció las reglas aplicables al derecho de huelga de los servidores públicos ante la omisión del legislador.
-- **STF, MS 22.164/1995**: Relevante por el estilo remedial en un caso de derechos ambientales.
-- **STF, ADPF 347/2015**: Declaración del "estado de cosas inconstitucional" del sistema penitenciario brasileño. Primer uso explícito de la categoría en Brasil.
-
-#### D.6. Alertas de litigante
-
-El principal riesgo en el MS es la exigencia de "prueba preconstituida": si el caso requiere producción probatoria compleja, el MS será rechazado. La estrategia debe concentrarse en construir el expediente documental antes de interponer la acción. Para casos de omisión normativa, el MI es el vehículo adecuado.
-
----
-
-### E. México
-
-#### E.1. Arquitectura normativa
-
-México no tiene una Acción de Cumplimiento autónoma. El equivalente funcional principal es el **Juicio de Amparo Indirecto**, regulado en los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos (CPEUM) y en la **Ley de Amparo de 2013**. La reforma constitucional de 2011 en materia de derechos humanos amplió significativamente el parámetro de control al incorporar los tratados internacionales de derechos humanos con rango constitucional (art. 1 CPEUM).
-
-#### E.2. Puerta de entrada procesal
-
-El amparo indirecto procede contra actos de autoridad que violen derechos humanos reconocidos en la Constitución o en los tratados internacionales. La reforma de 2011 introdujo el concepto de **"interés legítimo"** como alternativa al "interés jurídico" clásico, ampliando el acceso a la justicia en casos de naturaleza colectiva. Los requisitos incluyen: (i) acto de autoridad; (ii) agravio personal y directo (o interés legítimo); (iii) agotamiento de recursos ordinarios (con excepciones). La **suspensión** del acto reclamado es la medida cautelar característica del amparo mexicano.
-
-#### E.3. Estilo remedial
-
-La jurisprudencia de la SCJN ha evolucionado hacia remedios más estructurales en casos de derechos sociales. La SCJN ha reconocido la posibilidad de adoptar "efectos generales" en las declaratorias de inconstitucionalidad, lo que aproxima el sistema mexicano a los remedios estructurales.
-
-#### E.4. Ejecución real
-
-El sistema mexicano prevé multas, destitución y responsabilidad penal para el caso de incumplimiento de las órdenes de amparo. La **repetición del acto reclamado** es una causal de responsabilidad específica.
-
-#### E.5. Casos emblemáticos
-
-- **SCJN, Amparo en Revisión 237/2014**: Relevante por el estilo argumentativo de la Corte en materia de derechos fundamentales.
-- **SCJN, ADR 1621/2010**: Reconocimiento del interés legítimo en casos de derechos sociales.
-- *(Pendiente de verificación)*: Expedientes sobre cumplimiento de normas de beneficio para adultos mayores. Verificar en: [sjf.scjn.gob.mx](https://sjf.scjn.gob.mx)
-
-#### E.6. Alertas de litigante
-
-El principal riesgo es la exigencia de "acto de autoridad" y la distinción entre actos positivos y omisiones: las omisiones son más difíciles de encuadrar en el amparo clásico. La estrategia debe construir el caso como una omisión que constituye un acto de autoridad en sentido amplio. Para casos colectivos, el interés legítimo es el vehículo adecuado.
-
----
-
-### F. Ecuador
-
-#### F.1. Arquitectura normativa
-
-Ecuador tiene una **Acción de Incumplimiento** con base constitucional expresa en el artículo 93 de la Constitución de la República del Ecuador (CRE, 2008), que establece: *"La acción de incumplimiento tendrá por objeto garantizar la aplicación de las normas que integran el sistema jurídico, así como el cumplimiento de sentencias o informes de organismos internacionales de derechos humanos."* Su desarrollo procesal se encuentra en los artículos 52 a 60 de la **Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional (LOGJCC, 2009)**. La Corte Constitucional del Ecuador es el órgano competente en primera y única instancia.
-
-#### F.2. Puerta de entrada procesal
-
-Los requisitos de procedencia incluyen: (i) existencia de una norma del sistema jurídico o de una sentencia o informe de organismo internacional; (ii) incumplimiento verificable; (iii) requerimiento previo del cumplimiento (en algunos casos). La LOGJCC establece que la acción procede contra autoridades públicas y contra particulares cuando actúan en ejercicio de funciones públicas o prestan servicios públicos.
-
-#### F.3. Estilo remedial
-
-La acción de incumplimiento ecuatoriana produce órdenes de hacer con plazos específicos, y puede incluir la **reparación integral** del daño causado por el incumplimiento. La LOGJCC establece expresamente el principio de reparación integral, que incluye medidas de restitución, indemnización, rehabilitación, satisfacción y **garantías de no repetición**. Este es uno de los sistemas más avanzados en términos de remedios disponibles.
-
-#### F.4. Ejecución real
-
-La LOGJCC establece multas y destitución para el caso de incumplimiento de las órdenes de la Corte Constitucional. La responsabilidad personal del funcionario es un mecanismo de coerción importante.
-
-#### F.5. Casos emblemáticos
-
-- **CC, Sentencia N° 001-10-SIS-CC**: Establece los requisitos de procedencia de la acción de incumplimiento. *(Verificar en: corteconstitucional.gob.ec)*
-- **CC, Sentencia N° 004-13-SAN-CC**: Estilo remedial en caso de incumplimiento de normas de protección de derechos sociales. *(Verificar en: corteconstitucional.gob.ec)*
-
-#### F.6. Alertas de litigante
-
-El principal riesgo es la concentración de competencia en la Corte Constitucional, que puede generar demoras por carga procesal. La estrategia debe aprovechar el principio de reparación integral para solicitar medidas que vayan más allá del simple cumplimiento de la norma.
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **Halabi** | CSJN | 2009 | Legitimación colectiva para derechos de incidencia colectiva | Efectos erga omnes | Usar para casos masivos |
+| **Q.C., S.Y.** | CSJN | 2012 | Derechos sociales son exigibles judicialmente | Orden de provisión de vivienda | Los DESC son justiciables |
+| **Mendoza** | CSJN | 2008 | Juez puede ordenar plan de saneamiento con supervisión | Orden estructural con seguimiento | Modelo de litigio estructural |
+| **Verbitsky** | CSJN | 2005 | Habeas corpus colectivo por condiciones carcelarias | Orden de adecuación sistémica | Amparo colectivo funciona |
 
 ---
 
-### G. Chile (Jurisdicción Extra N° 1)
+### 🇨🇴 COLOMBIA
 
-> **Justificación de inclusión**: Chile es comparativamente útil porque su **Recurso de Protección** tiene un diseño procesal que minimiza el formalismo y maximiza la celeridad, con plazos muy breves y un estándar de admisibilidad relativamente bajo. La jurisprudencia reciente de la Corte Suprema chilena ha adoptado un estilo remedial progresivamente más estructural en casos de derechos sociales.
+#### A. CÓMO GANAR EL CASO
 
-#### G.1. Arquitectura normativa
+**Qué probar exactamente:**
+1. **Mandato imperativo e inobjetable** en ley o acto administrativo
+2. **Renuencia de la autoridad** (requerimiento previo + silencio o negativa)
+3. **Que no existe otro mecanismo judicial idóneo**
+4. **Que el mandato no implica gasto no presupuestado** (para AC pura)
 
-El Recurso de Protección tiene base constitucional en el artículo 20 de la Constitución Política de la República (CPR, 1980), que establece la acción frente a actos u omisiones arbitrarios o ilegales que priven, perturben o amenacen el legítimo ejercicio de los derechos constitucionales enumerados. Su regulación procesal se encuentra en el **Auto Acordado de la Corte Suprema de 1992**, modificado en 2015.
+**Cómo formular el mandato claro:**
+```
+"El artículo [X] de la Ley [Y] establece un mandato que es:
+- IMPERATIVO: usa verbos como 'deberá', 'está obligado', 'garantizará'
+- INOBJETABLE: no admite interpretaciones alternativas
+- VIGENTE: no ha sido derogado ni suspendido
+- EXIGIBLE: no está sujeto a condición pendiente"
+```
 
-#### G.2. Puerta de entrada procesal
+**⚠️ TRAMPA CRÍTICA**: Si el mandato implica gasto público no presupuestado, la AC será rechazada. Usar **TUTELA** en su lugar.
 
-Los requisitos incluyen: (i) acto u omisión arbitrario o ilegal; (ii) que el acto u omisión prive, perturbe o amenace un derecho constitucional protegido; (iii) **plazo de 30 días** desde que se tuvo conocimiento del acto. El plazo breve es una trampa procesal importante. La lista de derechos protegidos es taxativa y no incluye todos los derechos sociales, lo que es una limitación importante.
+**Documentos decisivos:**
+- Copia de la norma incumplida
+- **Requerimiento previo** con constancia de recibo (OBLIGATORIO)
+- Respuesta de la entidad (o prueba del silencio)
+- Prueba de la afectación
 
-#### G.3. Estilo remedial
+**Cómo superar "existe otra vía":**
+- Demostrar que la otra vía **no es eficaz** para el cumplimiento
+- Argumentar **perjuicio irremediable** (permite tutela como mecanismo transitorio)
+- Citar jurisprudencia que admitió AC en casos similares
 
-La Corte Suprema chilena ha adoptado órdenes de hacer con plazos específicos en casos de derechos sociales, y ha reconocido la posibilidad de adoptar medidas de seguimiento. El caso **Rol 2.182-2013** es relevante por el estilo remedial adoptado en un caso de acceso a medicamentos.
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
 
-#### G.4. Ejecución real
+**Errores frecuentes:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| No acreditar renuencia previa | Rechazo automático | Adjuntar requerimiento + prueba de recibo |
+| Pedir cumplimiento de norma que requiere gasto | Rechazo | Usar tutela, no AC |
+| No identificar mandato específico | Rechazo por generalidad | Citar artículo exacto y transcribirlo |
+| Confundir AC con tutela | Rechazo por vía inadecuada | Verificar si hay derecho fundamental afectado |
 
-El desacato y las multas son los mecanismos de coerción principales. La efectividad es generalmente alta en el sistema chileno.
+**Estrategia frente a renuencia previa:**
+- Enviar requerimiento por correo certificado con 15 días de anticipación
+- Si hay silencio, se presume renuencia (art. 8 Ley 393/1997)
+- Guardar **todos** los comprobantes de envío y recepción
 
-#### G.5. Casos emblemáticos
+**Cómo estructurar el petitorio:**
+```
+PRETENSIONES:
+PRIMERA: Declarar que [entidad] ha incurrido en incumplimiento del artículo [X] de [norma]
+SEGUNDA: Ordenar a [entidad] que en el término de [48 horas/10 días] proceda a [acción específica]
+TERCERA: Advertir al representante legal de [entidad] las consecuencias del desacato
+CUARTA: Ordenar seguimiento del cumplimiento mediante informes [periódicos]
+```
 
-- **CS, Rol 2.182-2013**: Estilo remedial en caso de acceso a medicamentos.
-- **CS, Rol 4.953-2016**: Relevante por la extensión del recurso de protección a casos de omisión estatal en servicios públicos. *(Pendiente de verificación en: pjud.cl)*
+#### C. CÓMO MAXIMIZAR PRESIÓN
 
-#### G.6. Alertas de litigante
+**Solicitud de multas y arresto por desacato:**
+```
+"En caso de incumplimiento, solicito se dé aplicación al artículo 52 del 
+Decreto 2591 de 1991, imponiendo:
+- Multa hasta de 20 SMLMV
+- Arresto hasta de 6 meses
+- Responsabilidad penal por fraude a resolución judicial (art. 454 CP)"
+```
 
-El plazo de 30 días es la trampa procesal más peligrosa. La lista taxativa de derechos protegidos puede excluir algunos derechos sociales. Para casos de adultos mayores, el derecho a la igualdad y la no discriminación (art. 19.2 CPR) puede ser el vehículo más adecuado.
+**Pedir sala de seguimiento (para casos estructurales):**
+```
+"Dada la complejidad del incumplimiento y su carácter estructural, solicito:
+1. Conformación de sala especial de seguimiento
+2. Convocatoria de audiencias públicas de rendición de cuentas
+3. Participación de organizaciones de la sociedad civil como veedoras
+4. Informes trimestrales con indicadores verificables"
+```
 
----
+**Incorporar estándares interamericanos:**
+- Citar Corte IDH: *Cinco Pensionistas vs. Perú* (derechos adquiridos)
+- Citar CIDH: Informes sobre derechos de personas mayores
+- Invocar Convención Interamericana sobre Protección de Personas Mayores
 
-### H. Costa Rica (Jurisdicción Extra N° 2)
+#### D. QUÉ REMEDIOS PEDIR ESTRATÉGICAMENTE
 
-> **Justificación de inclusión**: Costa Rica es comparativamente útil porque su **Sala Constitucional** (Sala IV) tiene una de las jurisprudencias más avanzadas de América Latina en materia de derechos sociales y protección de grupos vulnerables, con un estilo remedial que combina órdenes específicas con mecanismos de seguimiento robustos. La Sala IV ha desarrollado una doctrina de **"efecto erga omnes"** de sus resoluciones que produce cambios sistémicos a partir de casos individuales.
+**Para AC simple:**
+- Orden de cumplimiento en plazo perentorio (48 horas a 10 días)
+- Advertencia de desacato
+- Informe de cumplimiento
 
-#### H.1. Arquitectura normativa
+**Para tutela estructural (ECI):**
+- Declaración de Estado de Cosas Inconstitucional
+- Órdenes complejas a múltiples entidades
+- Creación de mesa de seguimiento
+- Indicadores de superación del ECI
+- Plazos diferenciados por tipo de medida
+- Participación de sociedad civil
 
-El Recurso de Amparo costarricense tiene base constitucional en el artículo 48 de la Constitución Política de 1949 y desarrollo procesal en la **Ley de la Jurisdicción Constitucional (Ley 7135, 1989)**. La Sala IV es competente para conocer el amparo en única instancia, lo que garantiza uniformidad jurisprudencial.
+#### E. JURISPRUDENCIA ÚTIL
 
-#### H.2. Puerta de entrada procesal
-
-Los requisitos son relativamente simples: (i) violación o amenaza de un derecho fundamental; (ii) que el acto u omisión sea imputable a una autoridad pública o a un particular con función pública. No se exige agotamiento de recursos previos en la mayoría de los casos. La Sala IV ha adoptado una postura de **mínimo formalismo** que facilita el acceso a la justicia constitucional.
-
-#### H.3. Estilo remedial
-
-La Sala IV ha desarrollado un estilo remedial que combina órdenes específicas con plazos, mecanismos de seguimiento, y en algunos casos la elaboración de planes de acción. El **efecto erga omnes** de las resoluciones de la Sala IV produce cambios sistémicos que van más allá del caso individual.
-
-#### H.4. Ejecución real
-
-La Sala IV tiene mecanismos de coerción robustos, incluyendo multas y responsabilidad personal del funcionario. La efectividad del sistema costarricense es generalmente alta, y la Sala IV es reconocida como uno de los tribunales constitucionales más activos de América Latina.
-
-#### H.5. Casos emblemáticos
-
-- **Sala IV, Voto 1739-92**: Caso fundacional de la jurisprudencia sobre derechos sociales. Establece el principio de mínimo vital y la obligación del Estado de garantizar condiciones de vida digna.
-- **Sala IV, Voto 9685-2000**: Relevante por la protección de derechos de adultos mayores en el acceso a servicios públicos. *(Pendiente de verificación en: poder-judicial.go.cr)*
-
-#### H.6. Alertas de litigante
-
-El sistema costarricense es el más accesible de los examinados. El principal riesgo es la saturación de la Sala IV, que puede generar demoras en casos no urgentes. Para casos urgentes, la medida cautelar es de tramitación muy rápida.
-
----
-
-## IV. Análisis Comparado Transversal de Alto Voltaje
-
-### Diseño vs. Desempeño
-
-El análisis comparado revela una **brecha sistemática** entre el diseño normativo y el desempeño real de los mecanismos de cumplimiento en todos los sistemas examinados:
-
-- **Colombia** tiene el diseño más elaborado en términos de remedios estructurales (T-025/2004), pero la ejecución de las órdenes estructurales ha sido lenta y parcial.
-- **Perú** tiene un diseño procesal relativamente eficiente, pero la práctica muestra que el cumplimiento de las órdenes del TC depende en gran medida de la voluntad política.
-- **Ecuador** tiene el diseño más avanzado en términos de reparación integral, pero la concentración de competencia en la Corte Constitucional genera demoras.
-- **Costa Rica** tiene el mejor desempeño en términos de efectividad real, gracias a la combinación de mínimo formalismo, efecto erga omnes y mecanismos de coerción robustos.
-
-### Gradiente de Coerción
-
-El gradiente de coerción, desde la sentencia declarativa hasta el desacato con consecuencias reales, puede ordenarse de la siguiente manera:
-
-1. **Costa Rica** y **Ecuador**: mecanismos de coerción más efectivos, con responsabilidad personal del funcionario y multas significativas.
-2. **Colombia** y **Argentina**: mecanismos de coerción intermedios, con astreintes y desacato de aplicación variable.
-3. **Brasil**: sistema de multas diarias (astreintes) muy efectivo en casos individuales, menos en casos estructurales.
-4. **Perú** y **México**: mecanismos de coerción formalmente robustos pero de efectividad variable en la práctica.
-5. **Chile**: mecanismos de coerción relativamente efectivos en el sistema federal, con variaciones regionales.
-
-### Modelo de Juez
-
-El análisis comparado revela dos modelos polares:
-
-| Modelo | Países | Características |
-|---|---|---|
-| **Juez gestor activo** | Colombia (tutela estructural), Costa Rica, Ecuador | Supervisa la ejecución, convoca audiencias de seguimiento, adopta medidas adicionales |
-| **Juez árbitro pasivo** | Perú, México, Chile | Resuelve el caso y deja la ejecución a las partes |
-| **Intermedio** | Argentina, Brasil | Tendencia reciente hacia el modelo de juez gestor en casos de derechos sociales |
-
-### Capacidad de Producir Cambios Estructurales
-
-La capacidad de producir cambios estructurales —planes de acción, indicadores, monitoreo— es más alta en:
-
-- **Colombia** (T-025/2004): jurisprudencia estructural más elaborada de América Latina.
-- **Brasil** (ADPF 347/2015): primer uso explícito del ECI en Brasil.
-- **Ecuador** (reparación integral): diseño normativo más avanzado.
-- **Costa Rica**: cambios estructurales a través del efecto erga omnes.
-- **Argentina**: capacidad estructural demostrada en el caso "Mendoza".
-
-### Compatibilidad con Litigio de Interés Público
-
-La legitimación colectiva y las acciones difusas son más desarrolladas en:
-
-- **Argentina** ("Halabi"): reconocimiento de acciones colectivas.
-- **Brasil** (ação civil pública): sistema de acciones colectivas más desarrollado de América Latina.
-- **Colombia** (acciones populares): mecanismo específico para derechos colectivos.
-- **Ecuador** (acción de protección colectiva): base constitucional expresa.
-
-### Riesgo de Formalismo Defensivo
-
-| Nivel de riesgo | Países | Causa principal |
-|---|---|---|
-| **Alto** | México, Brasil (MS) | Exigencia de "acto de autoridad" / "prueba preconstituida" |
-| **Medio** | Colombia, Perú, Argentina | Exigencia de mandato claro / arbitrariedad manifiesta |
-| **Bajo** | Costa Rica, Ecuador | Principio de no formalismo expresamente consagrado |
-| **Variable** | Chile | Plazo breve de 30 días como trampa procesal |
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **T-025** | Corte Const. | 2004 | ECI por violación masiva con causas estructurales | Órdenes estructurales + seguimiento | Modelo mundial de litigio estructural |
+| **T-760** | Corte Const. | 2008 | ECI en salud: órdenes a todo el sistema | Reforma estructural del sistema | Juez puede ordenar políticas públicas |
+| **SU-559** | Corte Const. | 1997 | Primer ECI (docentes) | Órdenes a múltiples entidades | Origen de la doctrina ECI |
+| **T-153** | Corte Const. | 1998 | ECI carcelario | Plan de construcción de cárceles | ECI puede ordenar inversión |
 
 ---
 
-## V. Ranking Argumentado: Top 3 Sistemas Más Eficaces
+### 🇧🇷 BRASIL
 
-### 🥇 Primer lugar: Costa Rica
+#### A. CÓMO GANAR EL CASO
 
-El sistema costarricense combina **mínimo formalismo**, acceso universal, efecto erga omnes, mecanismos de coerción robustos y una jurisprudencia progresiva en derechos sociales. La Sala IV es el tribunal constitucional más activo de América Latina en términos de volumen de casos resueltos y efectividad de sus órdenes. Para un caso como el de la Ley 1886 boliviana, el sistema costarricense ofrecería el camino más directo hacia una resolución efectiva.
+**Para Mandado de Segurança (MS):**
 
-**Fortalezas clave**: mínimo formalismo, efecto erga omnes, responsabilidad personal del funcionario, jurisprudencia progresiva en derechos de adultos mayores.
+**Qué probar exactamente:**
+1. **Direito líquido e certo** (derecho líquido y cierto) - TODA la prueba debe ser documental
+2. **Ato ilegal ou abusivo** de autoridad pública
+3. **Que no cabe recurso administrativo con efecto suspensivo**
+4. **Plazo de 120 días** desde el conocimiento del acto
 
-### 🥈 Segundo lugar: Ecuador
+**⚠️ TRAMPA CRÍTICA**: El MS exige **prueba preconstituida**. Si necesitas producir prueba testimonial o pericial, el MS será rechazado. Usar otra vía.
 
-El sistema ecuatoriano tiene el **diseño más avanzado** en términos de reparación integral y garantías de no repetición, con base constitucional expresa en la CRE de 2008. La acción de incumplimiento es un mecanismo específicamente diseñado para el tipo de caso que aquí se analiza, y la Corte Constitucional ha demostrado disposición para adoptar remedios estructurales.
+**Cómo formular el mandato claro:**
+```
+"O direito do impetrante é LÍQUIDO E CERTO porque:
+- Está previsto expressamente no artigo [X] da Lei [Y]
+- Não depende de dilação probatória
+- Os fatos estão comprovados documentalmente
+- A autoridade coatora tem dever legal de [ação]"
+```
 
-**Fortalezas clave**: reparación integral con garantías de no repetición, base constitucional expresa, principio de no formalismo.
+**Para Mandado de Injunção (MI):**
 
-**Limitación principal**: concentración de competencia en la Corte Constitucional, que puede generar demoras.
+**Qué probar exactamente:**
+1. **Omissão normativa** que impide ejercicio de derecho constitucional
+2. **Titularidad del derecho** afectado por la omisión
+3. **Que la norma constitucional no es autoaplicable**
+4. **Mora del legislador** en reglamentar
 
-### 🥉 Tercer lugar: Colombia
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
 
-El sistema colombiano tiene la **jurisprudencia estructural más elaborada** de América Latina, con la doctrina del ECI como herramienta de intervención sistémica. La tutela es un mecanismo de acceso rápido y efectivo, y la Corte Constitucional ha demostrado capacidad para adoptar y supervisar órdenes estructurales complejas.
+**Errores frecuentes en MS:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| Prueba insuficiente | Rechazo por falta de liquidez | Reunir TODA la prueba documental antes |
+| Plazo vencido (120 días) | Decadencia | Verificar fecha de conocimiento del acto |
+| Existencia de recurso con efecto suspensivo | Rechazo | Verificar si hay recurso pendiente |
+| Cuestión que requiere dilación probatoria | Rechazo | Usar ação ordinária en su lugar |
 
-**Fortalezas clave**: doctrina del ECI, jurisprudencia estructural más desarrollada, mecanismos de seguimiento robustos.
+**Cómo estructurar el petitorio (MS):**
+```
+PEDIDOS:
+1. Concessão de MEDIDA LIMINAR para [suspender ato / ordenar ação]
+2. Notificação da autoridade coatora para prestar informações
+3. Concessão definitiva da segurança para:
+   a) Declarar ilegal o ato [X]
+   b) Ordenar que a autoridade [ação específica]
+4. Fixação de multa diária (astreinte) de R$ [valor] em caso de descumprimento
+```
 
-**Limitación principal**: lentitud en la ejecución de las órdenes estructurales y dependencia de la voluntad política de las entidades demandadas.
+#### C. CÓMO MAXIMIZAR PRESIÓN
 
----
+**Solicitud de multa diária (astreinte):**
+```
+"Requer-se a fixação de astreinte no valor de R$ [X] por dia de 
+descumprimento, nos termos do art. 537 do CPC, a ser suportada 
+pessoalmente pelo agente público responsável."
+```
 
-## VI. Checklist Replicable para Construir una Demanda
+**Para casos estructurales (ADPF):**
+- Solicitar declaración de "estado de coisas inconstitucional"
+- Pedir órdenes a múltiples órganos
+- Solicitar audiencias públicas
+- Pedir participación de amici curiae
 
-### 🇧🇴 Bolivia — Acción de Cumplimiento (Art. 134 CPE + Ley N° 254)
+#### D. JURISPRUDENCIA ÚTIL
 
-Debes probar:
-- [ ] **A**: Existencia de un mandato normativo claro, expreso y exigible (citar artículo específico de la Ley 1886).
-- [ ] **B**: Omisión verificable de la autoridad o empresa obligada (documentar la negativa o el incumplimiento).
-- [ ] **C**: Que el accionante es titular del derecho o tiene legitimación para actuar en representación del grupo afectado.
-- [ ] **D**: Que se ha requerido previamente el cumplimiento (carta de requerimiento con acuse de recibo).
-- [ ] **E**: Que el incumplimiento tiene carácter continuado o sistémico (documentar el patrón de incumplimiento con múltiples casos).
-- [ ] **F** (para ECI): Análisis demográfico que compare el universo total de beneficiarios con las cifras oficiales de cobertura.
-
-### 🇨🇴 Colombia — Acción de Cumplimiento (Ley 393/1997) / Tutela estructural
-
-Debes probar:
-- [ ] **A**: Mandato imperativo e inobjetable en ley o acto administrativo.
-- [ ] **B**: Renuencia de la autoridad (requerimiento previo documentado).
-- [ ] **C**: Que no existe otro mecanismo judicial más idóneo.
-- [ ] **D** (para ECI vía tutela): Patrón de violación masiva, causas estructurales, múltiples entidades responsables.
-
-### 🇵🇪 Perú — Proceso de Cumplimiento (Ley 31307/2021)
-
-Debes probar:
-- [ ] **A**: Mandato vigente, cierto, claro, no sujeto a controversia.
-- [ ] **B**: Requerimiento previo documentado.
-- [ ] **C**: Incumplimiento verificable.
-- [ ] **D**: Que el demandante es titular del derecho o tiene legitimación colectiva.
-
-### 🇪🇨 Ecuador — Acción de Incumplimiento (LOGJCC)
-
-Debes probar:
-- [ ] **A**: Norma del sistema jurídico incumplida.
-- [ ] **B**: Incumplimiento verificable.
-- [ ] **C**: Requerimiento previo (cuando aplica).
-- [ ] **D** (para reparación integral): Daño causado, nexo causal, medidas de no repetición necesarias.
-
-### 🇦🇷 Argentina — Amparo constitucional (Art. 43 CN)
-
-Debes probar:
-- [ ] **A**: Acto u omisión con arbitrariedad o ilegalidad manifiesta.
-- [ ] **B**: Daño actual o inminente a derechos constitucionales.
-- [ ] **C**: Legitimación activa (afectado, defensor del pueblo, o asociación según "Halabi").
-- [ ] **D**: Inexistencia de otro remedio judicial más idóneo.
-
-### 🇧🇷 Brasil — Mandado de Segurança / Mandado de Injunção
-
-Debes probar (MS):
-- [ ] **A**: Derecho líquido y cierto (prueba preconstituida documental).
-- [ ] **B**: Acto ilegal o abusivo de autoridad pública.
-- [ ] **C**: Plazo de 120 días desde el conocimiento del acto.
-
-Debes probar (MI):
-- [ ] **A**: Omisión normativa que impide el ejercicio de un derecho constitucional.
-- [ ] **B**: Titularidad del derecho afectado.
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **MI 670** | STF | 2007 | STF puede crear norma supletoria ante omisión | Norma judicial supletoria | MI tiene efecto normativo |
+| **ADPF 347** | STF | 2015 | ECI del sistema penitenciario | Órdenes estructurales | Brasil adoptó doctrina ECI |
+| **RE 592.581** | STF | 2015 | Juez puede ordenar obras en cárceles | Orden de inversión | Reserva de lo posible tiene límites |
+| **MS 22.164** | STF | 1995 | Derecho ambiental es líquido y cierto | Protección ambiental | MS sirve para derechos difusos |
 
 ---
 
-## VII. Bibliografía Mínima Verificada
+### 🇲🇽 MÉXICO
 
-### Bolivia
+#### A. CÓMO GANAR EL CASO
 
-**Fuentes primarias:**
-- Constitución Política del Estado Plurinacional de Bolivia (2009), arts. 134, 67, 70, 410. Disponible en: [gacetaoficialdebolivia.gob.bo](https://www.gacetaoficialdebolivia.gob.bo)
-- Ley N° 254, Código Procesal Constitucional (2012), arts. 3, 64–70. Disponible en: [lexivox.org](https://www.lexivox.org/norms/BO-L-N254.html)
-- Ley N° 1886, Ley de Derechos de las Personas Adultas Mayores. Disponible en: [lexivox.org](https://www.lexivox.org/norms/BO-L-N1886.html)
-- TCP, SCP 0258/2011-R. Disponible en: [tribunalconstitucional.gob.bo](https://www.tribunalconstitucional.gob.bo)
-- TCP, SCP 1422/2012. Disponible en: [tribunalconstitucional.gob.bo](https://www.tribunalconstitucional.gob.bo)
+**Qué probar exactamente:**
+1. **Acto de autoridad** (positivo u omisivo)
+2. **Agravio personal y directo** O **interés legítimo** (desde 2011)
+3. **Violación de derechos humanos** reconocidos en Constitución o tratados
+4. **Definitividad** (agotamiento de recursos ordinarios, con excepciones)
 
-**Fuentes doctrinales:**
-- Rivera Santiváñez, José Antonio. *Jurisdicción Constitucional*. Cochabamba: Kipus, 2011.
-- Ferreyra, Raúl Gustavo. *Fundamentos Constitucionales*. Buenos Aires: Ediar, 2015.
-- Nogueira Alcalá, Humberto. *Derechos fundamentales y garantías constitucionales*. Santiago: Librotecnia, 2008.
+**Cómo formular el mandato claro:**
+```
+"El artículo [X] de [norma] establece una obligación de hacer a cargo de 
+[autoridad]. La omisión de cumplir constituye:
+- Violación al derecho a [derecho específico] (art. [Y] CPEUM)
+- Violación al derecho a [derecho en tratado] (art. [Z] CADH)
+- Acto de autoridad omisivo que causa agravio personal y directo"
+```
 
----
+**Documentos decisivos:**
+- Norma que establece la obligación
+- Prueba de la omisión (solicitud + silencio, o negativa expresa)
+- Prueba del agravio personal
+- Constancia de agotamiento de recursos (o argumentación de excepción)
 
-### Colombia
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
 
-**Fuentes primarias:**
-- Constitución Política de Colombia (1991), arts. 87, 93. Disponible en: [secretariasenado.gov.co](https://www.secretariasenado.gov.co)
-- Ley 393 de 1997 (Acción de Cumplimiento). Disponible en: [secretariasenado.gov.co](https://www.secretariasenado.gov.co)
-- Corte Constitucional, Sentencia T-025/2004. Disponible en: [corteconstitucional.gov.co](https://www.corteconstitucional.gov.co)
-- Corte Constitucional, Sentencia SU-559/1997. Disponible en: [corteconstitucional.gov.co](https://www.corteconstitucional.gov.co)
-- Consejo de Estado, Sección Quinta, Exp. 2001-0005. *(Pendiente de verificación en: [consejodeestado.gov.co](https://www.consejodeestado.gov.co))*
+**Errores frecuentes:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| No agotar recursos ordinarios | Sobreseimiento | Agotar o argumentar excepción |
+| No acreditar interés (jurídico o legítimo) | Sobreseimiento | Documentar afectación personal |
+| Plazo vencido (15 días) | Sobreseimiento | Verificar fecha del acto reclamado |
+| Acto consentido | Sobreseimiento | Impugnar oportunamente |
 
-**Fuentes doctrinales:**
-- Uprimny, Rodrigo. *Las transformaciones constitucionales recientes en América Latina*. Bogotá: Dejusticia, 2011.
-- Rodríguez Garavito, César. *Más allá del desplazamiento*. Bogotá: Uniandes, 2010.
-- Quinche Ramírez, Manuel Fernando. *Derecho Constitucional Colombiano*. Bogotá: Temis, 2015.
-- Arango, Rodolfo. *El concepto de derechos sociales fundamentales*. Bogotá: Legis, 2005.
+**Excepciones a la definitividad (usar estratégicamente):**
+- Actos que afectan la vida o integridad personal
+- Actos de imposible reparación
+- Actos que carecen de fundamentación
+- Cuando el recurso ordinario no prevé suspensión
 
----
+#### C. CÓMO MAXIMIZAR PRESIÓN
 
-### Perú
+**Solicitud de suspensión:**
+```
+"Solicito la SUSPENSIÓN DE PLANO del acto reclamado, toda vez que:
+- Se trata de actos que de consumarse harían físicamente imposible 
+  restituir al quejoso en el goce del derecho violado
+- La suspensión no causa perjuicio al interés social
+- No se contravienen disposiciones de orden público"
+```
 
-**Fuentes primarias:**
-- Constitución Política del Perú (1993), art. 200.6. Disponible en: [tc.gob.pe](https://www.tc.gob.pe)
-- Ley 31307, Código Procesal Constitucional (2021), arts. 65–74. Disponible en: [leyes.congreso.gob.pe](https://www.leyes.congreso.gob.pe)
-- TC, STC Exp. 0168-2005-PC/TC. Disponible en: [tc.gob.pe](https://www.tc.gob.pe)
-- TC, STC Exp. 2616-2004-AC/TC. Disponible en: [tc.gob.pe](https://www.tc.gob.pe)
+**Advertencia de responsabilidad:**
+```
+"Se hace del conocimiento de la autoridad responsable que el incumplimiento 
+de la sentencia de amparo actualiza:
+- Separación del cargo (art. 192 Ley de Amparo)
+- Responsabilidad penal (art. 267 Ley de Amparo)
+- Multas de 100 a 1000 UMA"
+```
 
-**Fuentes doctrinales:**
-- Eto Cruz, Gerardo. *El proceso de cumplimiento en el Perú*. Lima: Gaceta Jurídica, 2010.
-- Castillo Córdova, Luis. *Comentarios al Código Procesal Constitucional*. Lima: Palestra, 2006.
-- Sar, Omar. *Código Procesal Constitucional comentado*. Lima: Nomos & Thesis, 2006.
+#### D. JURISPRUDENCIA ÚTIL
 
----
-
-### Argentina
-
-**Fuentes primarias:**
-- Constitución Nacional Argentina (1994), arts. 43, 75.22. Disponible en: [infoleg.gob.ar](https://www.infoleg.gob.ar)
-- Ley 16.986 (Acción de Amparo, 1966). Disponible en: [infoleg.gob.ar](https://www.infoleg.gob.ar)
-- Ley 19.549 (Procedimientos Administrativos, 1972), art. 28. Disponible en: [infoleg.gob.ar](https://www.infoleg.gob.ar)
-- CSJN, "Halabi, Ernesto c/ P.E.N." (2009), Fallos 332:111. Disponible en: [csjn.gov.ar](https://www.csjn.gov.ar)
-- CSJN, "Q.C., S.Y. c/ Gobierno de la Ciudad de Buenos Aires" (2012), Fallos 335:452. Disponible en: [csjn.gov.ar](https://www.csjn.gov.ar)
-- CSJN, "Mendoza, Beatriz Silvia y otros c/ Estado Nacional" (2008). Disponible en: [csjn.gov.ar](https://www.csjn.gov.ar)
-
-**Fuentes doctrinales:**
-- Bidart Campos, Germán. *Manual de la Constitución Reformada*. Buenos Aires: Ediar, 1998.
-- Lorenzetti, Ricardo Luis. *Teoría del Derecho Ambiental*. Buenos Aires: La Ley, 2008.
-- Abramovich, Víctor; Courtis, Christian. *Los derechos sociales como derechos exigibles*. Madrid: Trotta, 2002.
-- Verbic, Francisco. *Procesos Colectivos*. Buenos Aires: Astrea, 2007.
-
----
-
-### Brasil
-
-**Fuentes primarias:**
-- Constituição Federal do Brasil (1988), arts. 5.LXIX, 5.LXXI. Disponible en: [planalto.gov.br](https://www.planalto.gov.br)
-- Lei 12.016/2009 (Mandado de Segurança). Disponible en: [planalto.gov.br](https://www.planalto.gov.br)
-- Lei 13.300/2016 (Mandado de Injunção). Disponible en: [planalto.gov.br](https://www.planalto.gov.br)
-- STF, MI 670/2007. Disponible en: [stf.jus.br](https://www.stf.jus.br)
-- STF, ADPF 347/2015. Disponible en: [stf.jus.br](https://www.stf.jus.br)
-- STF, MS 22.164/1995. Disponible en: [stf.jus.br](https://www.stf.jus.br)
-
-**Fuentes doctrinales:**
-- Mendes, Gilmar Ferreira; Branco, Paulo Gustavo Gonet. *Curso de Direito Constitucional*. São Paulo: Saraiva, 2015.
-- Didier Jr., Fredie; Zaneti Jr., Hermes. *Curso de Direito Processual Civil: Processo Coletivo*. Salvador: JusPodivm, 2016.
-- Mazzilli, Hugo Nigro. *A defesa dos interesses difusos em juízo*. São Paulo: Saraiva, 2014.
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **AR 237/2014** | SCJN | 2014 | Interés legítimo en derechos sociales | Ampliación de legitimación | Usar interés legítimo |
+| **ADR 1621/2010** | SCJN | 2010 | Derechos sociales son justiciables | Orden de prestación | DESC son exigibles |
+| **CT 293/2011** | SCJN | 2011 | Tratados de DDHH tienen rango constitucional | Parámetro de control ampliado | Citar tratados directamente |
+| **AR 323/2014** | SCJN | 2014 | Derecho a la salud es exigible | Orden de tratamiento | Salud es justiciable |
 
 ---
 
-### México
+### 🇵🇪 PERÚ
 
-**Fuentes primarias:**
-- Constitución Política de los Estados Unidos Mexicanos (1917, reforma 2011), arts. 1, 103, 107. Disponible en: [diputados.gob.mx](https://www.diputados.gob.mx)
-- Ley de Amparo (2013). Disponible en: [diputados.gob.mx](https://www.diputados.gob.mx)
-- SCJN, Amparo en Revisión 237/2014. Disponible en: [scjn.gob.mx](https://www.scjn.gob.mx)
-- SCJN, ADR 1621/2010. Disponible en: [scjn.gob.mx](https://www.scjn.gob.mx)
+#### A. CÓMO GANAR EL CASO
 
-**Fuentes doctrinales:**
-- Fix-Zamudio, Héctor; Valencia Carmona, Salvador. *Derecho Constitucional Mexicano y Comparado*. México: Porrúa, 2009.
-- Ferrer Mac-Gregor, Eduardo. *Juicio de Amparo e Interés Legítimo*. México: Porrúa, 2004.
-- Carbonell, Miguel. *Los derechos fundamentales en México*. México: UNAM-Porrúa, 2005.
+**Qué probar exactamente (los 5 requisitos del TC):**
+1. **Mandato vigente** (no derogado)
+2. **Mandato cierto y claro** (no ambiguo)
+3. **Mandato no sujeto a controversia compleja** (no requiere interpretación)
+4. **Mandato de ineludible cumplimiento** (no discrecional)
+5. **Mandato incondicional** (no sujeto a condición pendiente)
 
----
+**⚠️ TRAMPA CRÍTICA**: Si el mandato requiere CUALQUIER interpretación, será rechazado. El mandato debe ser autoevidente.
 
-### Ecuador
+**Cómo formular el mandato claro:**
+```
+"El artículo [X] de [norma] contiene un mandato que cumple los requisitos 
+establecidos en la STC 0168-2005-PC/TC:
+1. VIGENTE: publicado en [fecha], no derogado
+2. CIERTO Y CLARO: establece textualmente que '[transcripción]'
+3. NO CONTROVERTIDO: su sentido es unívoco, no admite interpretaciones
+4. INELUDIBLE: usa el verbo imperativo '[deberá/está obligado]'
+5. INCONDICIONAL: no está sujeto a [condición/plazo/presupuesto]"
+```
 
-**Fuentes primarias:**
-- Constitución de la República del Ecuador (2008), arts. 93, 436.5. Disponible en: [asambleanacional.gob.ec](https://www.asambleanacional.gob.ec)
-- Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional (LOGJCC, 2009), arts. 52–60. Disponible en: [corteconstitucional.gob.ec](https://www.corteconstitucional.gob.ec)
-- CC, Sentencia N° 001-10-SIS-CC. *(Verificar en: [corteconstitucional.gob.ec](https://www.corteconstitucional.gob.ec))*
-- CC, Sentencia N° 004-13-SAN-CC. *(Verificar en: [corteconstitucional.gob.ec](https://www.corteconstitucional.gob.ec))*
+**Documentos decisivos:**
+- Norma con el mandato (texto oficial)
+- **Documento de fecha cierta** con requerimiento previo (OBLIGATORIO)
+- Respuesta de la entidad o prueba del silencio
+- Prueba de que el demandante es beneficiario del mandato
 
-**Fuentes doctrinales:**
-- Ávila Santamaría, Ramiro. *El neoconstitucionalismo transformador*. Quito: Abya-Yala, 2011.
-- Storini, Claudia; Navas Alvear, Marco. *La acción de protección en Ecuador*. Quito: CEDEC, 2013.
-- Grijalva Jiménez, Agustín. *Constitucionalismo en Ecuador*. Quito: Corte Constitucional, 2012.
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
 
----
+**Errores frecuentes:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| No acreditar requerimiento previo | Improcedencia | Carta notarial con cargo de recepción |
+| Mandato que requiere interpretación | Improcedencia | Elegir mandatos autoaplicativos |
+| Mandato condicionado a presupuesto | Improcedencia | Argumentar que presupuesto existe |
+| No ser titular del derecho | Improcedencia | Acreditar calidad de beneficiario |
 
-### Chile
+**Estrategia frente a requerimiento previo:**
+- Enviar carta notarial con 10 días de anticipación mínimo
+- Incluir en la carta: norma invocada, acción requerida, plazo de respuesta
+- Guardar cargo de recepción notarial
+- Si hay silencio por más de 10 días, se configura renuencia
 
-**Fuentes primarias:**
-- Constitución Política de la República de Chile (1980), art. 20. Disponible en: [bcn.cl](https://www.bcn.cl)
-- Auto Acordado de la Corte Suprema sobre Recurso de Protección (1992, mod. 2015). Disponible en: [pjud.cl](https://www.pjud.cl)
-- CS, Rol 2.182-2013. *(Verificar en: [pjud.cl](https://www.pjud.cl))*
-- CS, Rol 4.953-2016. *(Verificar en: [pjud.cl](https://www.pjud.cl))*
+#### C. CÓMO MAXIMIZAR PRESIÓN
 
-**Fuentes doctrinales:**
-- Nogueira Alcalá, Humberto. *La acción constitucional de protección en Chile y la acción de amparo en México*. Santiago: Librotecnia, 2007.
-- Aldunate Lizana, Eduardo. *Derechos Fundamentales*. Santiago: LegalPublishing, 2008.
-- Zúñiga Urbina, Francisco. *Acciones constitucionales de amparo y protección*. Santiago: Editorial Jurídica de Chile, 2011.
+**Solicitud de multas progresivas:**
+```
+"En caso de incumplimiento, solicito la imposición de multas compulsivas 
+y progresivas conforme al artículo 22 del Código Procesal Constitucional:
+- Primera multa: 10 URP
+- Segunda multa: 20 URP (si persiste incumplimiento)
+- Tercera multa: 30 URP + destitución del funcionario"
+```
 
----
+**Solicitar destitución:**
+```
+"De persistir el incumplimiento, solicito se disponga la destitución del 
+funcionario responsable conforme al artículo 22 del CPC, comunicándose 
+a la Contraloría General de la República para los fines de ley."
+```
 
-### Costa Rica
+#### D. JURISPRUDENCIA ÚTIL
 
-**Fuentes primarias:**
-- Constitución Política de Costa Rica (1949), arts. 48, 10. Disponible en: [pgrweb.go.cr](https://www.pgrweb.go.cr)
-- Ley de la Jurisdicción Constitucional (Ley 7135, 1989). Disponible en: [pgrweb.go.cr](https://www.pgrweb.go.cr)
-- Sala IV, Voto 1739-92. Disponible en: [poder-judicial.go.cr](https://www.poder-judicial.go.cr)
-- Sala IV, Voto 9685-2000. *(Verificar en: [poder-judicial.go.cr](https://www.poder-judicial.go.cr))*
-
-**Fuentes doctrinales:**
-- Piza Escalante, Rodolfo. *La justicia constitucional en Costa Rica*. San José: Investigaciones Jurídicas, 2004.
-- Hernández Valle, Rubén. *Derecho Procesal Constitucional*. San José: Juricentro, 2009.
-- Jinesta Lobo, Ernesto. *Tratado de Derecho Administrativo*. San José: Investigaciones Jurídicas, 2002.
-
----
-
-### Fuentes Internacionales y Comparadas
-
-**Fuentes primarias internacionales:**
-- Convención Americana sobre Derechos Humanos (1969), arts. 1, 2, 25. Disponible en: [oas.org](https://www.oas.org)
-- Protocolo de San Salvador (1988), art. 9 (seguridad social). Disponible en: [oas.org](https://www.oas.org)
-- Convención Interamericana sobre la Protección de los Derechos Humanos de las Personas Mayores (2015). Disponible en: [oas.org](https://www.oas.org)
-- Corte IDH, *Poblete Vilches y otros vs. Chile* (2018). Disponible en: [corteidh.or.cr](https://www.corteidh.or.cr)
-- Corte IDH, *Saramaka vs. Surinam* (2007). Disponible en: [corteidh.or.cr](https://www.corteidh.or.cr)
-
-**Fuentes doctrinales comparadas:**
-- Ferrer Mac-Gregor, Eduardo (coord.). *Derecho Procesal Constitucional*. México: Porrúa, 2003.
-- García Belaunde, Domingo; Fernández Segado, Francisco (coords.). *La jurisdicción constitucional en Iberoamérica*. Madrid: Dykinson, 1997.
-- Rodríguez Garavito, César; Rodríguez Franco, Diana. *Cortes y cambio social*. Bogotá: Dejusticia, 2010.
-- Abramovich, Víctor; Courtis, Christian. *Los derechos sociales como derechos exigibles*. Madrid: Trotta, 2002.
-- Gargarella, Roberto. *Latin American Constitutionalism, 1810–2010*. Oxford: Oxford University Press, 2013.
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **0168-2005-PC/TC** | TC | 2005 | Los 5 requisitos del mandato | Estándar de procedencia | Caso fundacional, citar siempre |
+| **2616-2004-AC/TC** | TC | 2004 | Cumplimiento de beneficios legales | Orden de pago | Beneficios son exigibles |
+| **0206-2005-PA/TC** | TC | 2005 | Precedente vinculante sobre procedencia | Reglas de admisibilidad | Verificar precedentes |
+| **4119-2005-PA/TC** | TC | 2006 | Cumplimiento de normas de pensiones | Orden de reconocimiento | Pensiones son exigibles |
 
 ---
 
-## VIII. Anexo de Verificación (Audit Trail)
+### 🇪🇨 ECUADOR
 
-| Instrumento | País | Repositorio oficial | Ruta de verificación |
-|---|---|---|---|
-| CPE 2009 | Bolivia | gacetaoficialdebolivia.gob.bo | Búsqueda: "Constitución Política del Estado 2009" |
-| Ley N° 254 | Bolivia | lexivox.org | URL: lexivox.org/norms/BO-L-N254.html |
-| Ley N° 1886 | Bolivia | lexivox.org | URL: lexivox.org/norms/BO-L-N1886.html |
-| SCP 0258/2011-R | Bolivia | tribunalconstitucional.gob.bo | Búsqueda por número de sentencia |
-| CP 1991 | Colombia | secretariasenado.gov.co | Búsqueda: "Constitución Política 1991" |
-| Ley 393/1997 | Colombia | secretariasenado.gov.co | Búsqueda: "Ley 393 de 1997" |
-| T-025/2004 | Colombia | corteconstitucional.gov.co | Búsqueda: "T-025-04" |
-| CP 1993 | Perú | tc.gob.pe | Sección "Normativa" |
-| Ley 31307/2021 | Perú | leyes.congreso.gob.pe | Búsqueda: "Ley 31307" |
-| STC 0168-2005-PC/TC | Perú | tc.gob.pe | Búsqueda por expediente |
-| CN 1994 | Argentina | infoleg.gob.ar | Búsqueda: "Constitución Nacional" |
-| "Halabi" 2009 | Argentina | csjn.gov.ar | Búsqueda: "Halabi" en jurisprudencia |
-| CF 1988 | Brasil | planalto.gov.br | Búsqueda: "Constituição Federal 1988" |
-| MI 670/2007 | Brasil | stf.jus.br | Búsqueda por número de processo |
-| ADPF 347/2015 | Brasil | stf.jus.br | Búsqueda: "ADPF 347" |
-| CPEUM 2011 | México | diputados.gob.mx | Búsqueda: "Constitución Política" |
-| Ley de Amparo 2013 | México | diputados.gob.mx | Búsqueda: "Ley de Amparo 2013" |
-| CRE 2008 | Ecuador | asambleanacional.gob.ec | Búsqueda: "Constitución 2008" |
-| LOGJCC 2009 | Ecuador | corteconstitucional.gob.ec | Sección "Normativa" |
-| CPR 1980 | Chile | bcn.cl | Búsqueda: "Constitución Política" |
-| CP 1949 | Costa Rica | pgrweb.go.cr | Búsqueda: "Constitución Política 1949" |
-| Ley 7135/1989 | Costa Rica | pgrweb.go.cr | Búsqueda: "Ley 7135" |
-| CADH 1969 | Internacional | oas.org | Sección "Tratados" |
-| Poblete Vilches 2018 | Corte IDH | corteidh.or.cr | Búsqueda: "Poblete Vilches" |
-| Conv. Personas Mayores 2015 | OEA | oas.org | Búsqueda: "Convención Personas Mayores" |
+#### A. CÓMO GANAR EL CASO
+
+**Qué probar exactamente:**
+1. **Existencia de norma del sistema jurídico** (constitucional, legal, reglamentaria)
+2. **Incumplimiento verificable** de la norma
+3. **Que el accionante tiene interés** en el cumplimiento
+4. **Requerimiento previo** (en algunos casos)
+
+**Ventaja estratégica**: Ecuador tiene el estándar de admisibilidad MÁS BAJO de la región.
+
+**Cómo formular el mandato:**
+```
+"La norma [X] del [cuerpo normativo] establece [obligación]. 
+La autoridad [Y] ha incumplido esta norma al [omisión específica].
+El incumplimiento causa [daño] que requiere [reparación integral]."
+```
+
+**Documentos decisivos:**
+- Norma incumplida
+- Prueba del incumplimiento
+- Prueba del daño (para reparación integral)
+- Requerimiento previo (si aplica)
+
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
+
+**Errores frecuentes:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| Confundir con acción de protección | Inadmisión | Verificar que se trata de incumplimiento, no violación |
+| No identificar norma específica | Inadmisión | Citar artículo exacto |
+| Pedir solo declaración | Resolución inútil | Pedir reparación integral |
+
+**Ventaja procesal**: La Corte Constitucional conoce en única instancia, lo que garantiza uniformidad y evita apelaciones dilatorias.
+
+#### C. CÓMO MAXIMIZAR PRESIÓN
+
+**Solicitar reparación integral:**
+```
+"Conforme al artículo 18 de la LOGJCC, solicito REPARACIÓN INTEGRAL que incluya:
+1. RESTITUCIÓN: [restablecer situación anterior]
+2. COMPENSACIÓN: [indemnización por daños]
+3. REHABILITACIÓN: [medidas de recuperación]
+4. SATISFACCIÓN: [disculpas públicas, reconocimiento]
+5. GARANTÍAS DE NO REPETICIÓN: [reformas institucionales]"
+```
+
+**Solicitar destitución:**
+```
+"En caso de incumplimiento de la sentencia, solicito se aplique el artículo 
+86.4 de la Constitución, disponiendo la destitución del servidor público 
+responsable, sin perjuicio de la responsabilidad civil y penal."
+```
+
+#### D. JURISPRUDENCIA ÚTIL
+
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **001-10-SIS-CC** | CC | 2010 | Requisitos de la acción de incumplimiento | Estándar de procedencia | Caso fundacional |
+| **004-13-SAN-CC** | CC | 2013 | Incumplimiento de normas de protección social | Orden + reparación | Derechos sociales exigibles |
+| **016-16-SIS-CC** | CC | 2016 | Seguimiento de cumplimiento de sentencias | Supervisión judicial | CC supervisa cumplimiento |
+| **011-18-SIS-CC** | CC | 2018 | Reparación integral en casos de omisión | Reparación completa | Pedir siempre reparación integral |
 
 ---
 
-*Análisis elaborado conforme a los estándares doctrinales del derecho constitucional comparado, la jurisprudencia de los tribunales constitucionales de los países examinados, y el estándar interamericano de derechos humanos aplicable a la protección de personas adultas mayores. Fecha de elaboración: febrero de 2026.*
+### 🇨🇱 CHILE
+
+#### A. CÓMO GANAR EL CASO
+
+**Qué probar exactamente:**
+1. **Acto u omisión arbitrario o ilegal**
+2. **Que priva, perturba o amenaza** el legítimo ejercicio de un derecho
+3. **Que el derecho está en la lista del art. 20 CPR** (lista taxativa)
+4. **Que se interpone dentro de 30 días** desde el acto
+
+**⚠️ TRAMPA CRÍTICA**: El plazo de 30 días es FATAL. Si se vence, no hay recurso.
+
+**Derechos protegidos (art. 20 CPR):**
+- Vida e integridad (art. 19 N°1)
+- Igualdad ante la ley (art. 19 N°2) ← **USAR PARA ADULTOS MAYORES**
+- Igual protección de la ley (art. 19 N°3)
+- Libertad personal (art. 19 N°7)
+- Derecho de propiedad (art. 19 N°24)
+- Y otros específicos
+
+**Cómo formular el recurso:**
+```
+"El acto/omisión de [autoridad] es:
+- ARBITRARIO: carece de fundamento racional, es caprichoso
+- ILEGAL: contraviene [norma específica]
+Y causa:
+- PRIVACIÓN/PERTURBACIÓN/AMENAZA del derecho a [derecho art. 19]"
+```
+
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
+
+**Errores frecuentes:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| **Plazo vencido (30 días)** | Rechazo automático | Interponer INMEDIATAMENTE |
+| Derecho no listado en art. 20 | Rechazo | Encuadrar en derecho listado |
+| No acreditar arbitrariedad | Rechazo | Demostrar falta de fundamento |
+| Cuestión de lato conocimiento | Rechazo | Evitar controversias complejas |
+
+**Estrategia de encuadre:**
+- Si el derecho específico no está listado, usar **igualdad ante la ley** (art. 19 N°2)
+- Argumentar **discriminación arbitraria** contra el grupo afectado
+- Vincular con **derecho de propiedad** si hay beneficio económico involucrado
+
+#### C. CÓMO MAXIMIZAR PRESIÓN
+
+**Solicitar orden de no innovar:**
+```
+"Solicito se decrete ORDEN DE NO INNOVAR, ordenando a [autoridad] 
+abstenerse de [acción] mientras se resuelve el recurso, atendido que 
+de no hacerlo se causará un perjuicio irreparable."
+```
+
+**Advertir desacato:**
+```
+"Se hace presente que el incumplimiento de la sentencia de protección 
+configura el delito de desacato (art. 240 CPC), sancionado con reclusión 
+y multa, sin perjuicio de la responsabilidad administrativa."
+```
+
+#### D. JURISPRUDENCIA ÚTIL
+
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **Rol 2.182-2013** | CS | 2013 | Acceso a medicamentos es protegible | Orden de provisión | Salud vía igualdad |
+| **Rol 4.953-2016** | CS | 2016 | Omisión estatal puede ser arbitraria | Orden de acción | Omisiones son recurribles |
+| **Rol 34.594-2017** | CS | 2017 | Discriminación por edad es arbitraria | Protección de adultos mayores | Usar igualdad para AM |
+| **Rol 21.027-2019** | CS | 2019 | Servicios públicos deben ser igualitarios | Orden de prestación | Servicios públicos exigibles |
+
+---
+
+### 🇨🇷 COSTA RICA
+
+#### A. CÓMO GANAR EL CASO
+
+**Qué probar exactamente:**
+1. **Violación o amenaza de derecho fundamental** (cualquiera)
+2. **Acto u omisión** de autoridad pública o particular con función pública
+3. **Legitimación** (cualquier persona puede interponer)
+
+**Ventaja estratégica**: Costa Rica tiene el sistema MÁS ACCESIBLE de América Latina. No exige:
+- Agotamiento de vía administrativa
+- Formalidades especiales
+- Patrocinio letrado obligatorio
+
+**Cómo formular el recurso:**
+```
+"[Nombre] interpone recurso de amparo contra [autoridad] por violación 
+del derecho a [derecho fundamental] garantizado en el artículo [X] de 
+la Constitución Política.
+
+HECHOS: [narración simple]
+DERECHO VIOLADO: [identificación]
+PETITORIA: [lo que se pide]"
+```
+
+#### B. CÓMO BLINDAR LA ADMISIBILIDAD
+
+**Errores frecuentes:**
+| Error | Consecuencia | Cómo evitarlo |
+|-------|--------------|---------------|
+| Recurso manifiestamente improcedente | Rechazo de plano | Verificar que hay derecho fundamental |
+| Asunto de legalidad ordinaria | Rechazo | Encuadrar como cuestión constitucional |
+| Cosa juzgada | Rechazo | Verificar que no hay sentencia previa |
+
+**Ventaja procesal**: La Sala IV tiene política de **mínimo formalismo**. Acepta recursos:
+- Por fax
+- Por correo electrónico
+- Sin abogado
+- Con errores formales menores
+
+#### C. CÓMO MAXIMIZAR PRESIÓN
+
+**Solicitar responsabilidad personal:**
+```
+"En caso de incumplimiento, solicito se aplique el artículo 71 de la 
+Ley de la Jurisdicción Constitucional, condenando personalmente al 
+funcionario responsable al pago de daños y perjuicios, sin perjuicio 
+de la responsabilidad penal por desobediencia."
+```
+
+**Invocar efecto erga omnes:**
+```
+"Solicito que la sentencia tenga EFECTO ERGA OMNES conforme al artículo 
+13 de la LJC, de modo que beneficie a todas las personas en situación 
+similar, ordenando a [autoridad] aplicar el criterio a todos los casos."
+```
+
+#### D. JURISPRUDENCIA ÚTIL
+
+| Caso | Tribunal | Año | Regla útil | Tipo de remedio | Lección práctica |
+|------|----------|-----|------------|-----------------|------------------|
+| **Voto 1739-92** | Sala IV | 1992 | Mínimo vital es exigible | Orden de prestación | DESC son justiciables |
+| **Voto 9685-2000** | Sala IV | 2000 | Adultos mayores tienen protección reforzada | Protección especial | Usar para casos de AM |
+| **Voto 2007-1458** | Sala IV | 2007 | Omisiones estatales son recurribles | Orden de acción | Omisiones son amparables |
+| **Voto 2013-10540** | Sala IV | 2013 | Servicios públicos deben ser universales | Orden de cobertura | Universalidad exigible |
+
+---
+
+### 🇪🇸 ESPAÑA (Jurisdicción Adicional 1)
+
+> **Justificación de inclusión**: España tiene un sistema de **multas coercitivas (astreintes)** muy desarrollado en la jurisdicción contencioso-administrativa, con montos significativos y ejecución efectiva. El modelo español de ejecución forzosa es exportable a sistemas latinoamericanos.
+
+#### A. CÓMO GANAR EL CASO
+
+**Mecanismos disponibles:**
+1. **Recurso de amparo** ante TC (subsidiario, solo para derechos fundamentales)
+2. **Recurso contencioso-administrativo** (vía ordinaria, más efectiva para cumplimiento)
+3. **Ejecución forzosa** de sentencias (donde está el poder coercitivo real)
+
+**Qué probar:**
+- Existencia de obligación legal incumplida
+- Agotamiento de vía administrativa (obligatorio)
+- Lesión de derecho o interés legítimo
+
+#### B. CÓMO MAXIMIZAR PRESIÓN
+
+**Multas coercitivas (art. 108 LJCA):**
+```
+"Solicito la imposición de multas coercitivas conforme al artículo 108.1 
+de la LJCA, en cuantía de [X] euros por día/semana/mes de retraso, 
+hasta el cumplimiento íntegro de la sentencia."
+```
+
+**Características de las multas españolas:**
+- Pueden ser **muy elevadas** (sin límite legal fijo)
+- Son **progresivas** (aumentan con el tiempo)
+- Se imponen al **órgano** y pueden repercutirse al **funcionario**
+- Son **ejecutables** sin trámite adicional
+
+#### C. JURISPRUDENCIA ÚTIL
+
+| Caso | Tribunal | Año | Regla útil | Lección práctica |
+|------|----------|-----|------------|------------------|
+| **STC 32/1982** | TC | 1982 | Derecho a ejecución de sentencias es fundamental | Ejecución es derecho |
+| **STS 4521/2010** | TS | 2010 | Multas coercitivas deben ser disuasorias | Pedir montos altos |
+| **STS 1382/2016** | TS | 2016 | Administración no puede alegar falta de presupuesto | Presupuesto no es excusa |
+
+---
+
+### 🇿🇦 SUDÁFRICA (Jurisdicción Adicional 2)
+
+> **Justificación de inclusión**: Sudáfrica tiene el sistema de **órdenes estructurales (structural interdicts)** más desarrollado del mundo, con supervisión judicial continua y contempt of court efectivo. Es el modelo de referencia para litigio de interés público.
+
+#### A. CÓMO GANAR EL CASO
+
+**Mecanismos disponibles:**
+1. **Constitutional enforcement** (sec. 38 Constitution)
+2. **Structural interdict** (orden estructural con supervisión)
+3. **Contempt of court** (desacato con consecuencias reales)
+
+**Qué probar:**
+- Violación de derecho constitucional
+- Que el demandante tiene standing (muy amplio en Sudáfrica)
+- Que se requiere remedio judicial
+
+**Ventaja estratégica**: Sudáfrica tiene la legitimación MÁS AMPLIA del mundo:
+- Cualquier persona actuando en su propio interés
+- Cualquier persona actuando en interés de otro que no puede actuar
+- Cualquier persona actuando como miembro de un grupo o clase
+- Cualquier persona actuando en interés público
+- Asociaciones actuando en interés de sus miembros
+
+#### B. CÓMO MAXIMIZAR PRESIÓN
+
+**Solicitar structural interdict:**
+```
+"The applicant seeks a STRUCTURAL INTERDICT requiring the respondent to:
+1. Submit a comprehensive plan for compliance within [X] days
+2. Report to this Court on progress every [X] months
+3. Allow the applicant to file responding reports
+4. Retain jurisdiction until full compliance is achieved"
+```
+
+**Contempt of court:**
+- En Sudáfrica, el contempt of court puede resultar en **prisión efectiva**
+- Los tribunales han encarcelado funcionarios por incumplimiento
+- Es el sistema con mayor poder coercitivo real
+
+#### C. JURISPRUDENCIA ÚTIL
+
+| Caso | Tribunal | Año | Regla útil | Lección práctica |
+|------|----------|-----|------------|------------------|
+| **Grootboom** | ConCourt | 2000 | Estado debe tener plan razonable para derechos sociales | Exigir planes |
+| **TAC** | ConCourt | 2002 | Corte puede ordenar provisión de medicamentos | Órdenes específicas |
+| **Mazibuko** | ConCourt | 2009 | Supervisión judicial de políticas públicas | Retener jurisdicción |
+| **Black Sash** | ConCourt | 2017 | Contempt por incumplimiento de orden social | Contempt funciona |
+
+---
+
+## IV. ANÁLISIS TRANSVERSAL ESTRATÉGICO
+
+### 1. ¿Dónde es más fácil ACTIVAR el mecanismo?
+
+| Ranking | País | Razón |
+|---------|------|-------|
+| 🥇 | **Costa Rica** | Sin formalidades, sin agotamiento previo, sin abogado obligatorio |
+| 🥈 | **Ecuador** | Estándar bajo, CC conoce directamente, principio pro actione |
+| 🥉 | **Chile** | Procedimiento simple, pero plazo de 30 días es trampa |
+| 4° | Colombia | Requiere renuencia previa documentada |
+| 5° | Argentina | Requiere demostrar arbitrariedad manifiesta |
+| 6° | Perú | 5 requisitos estrictos del mandato |
+| 7° | Brasil | Prueba preconstituida obligatoria |
+| 8° | México | Formalismo procesal excesivo |
+
+### 2. ¿Dónde es más fuerte la EJECUCIÓN?
+
+| Ranking | País | Razón |
+|---------|------|-------|
+| 🥇 | **Sudáfrica** | Contempt of court con prisión efectiva, structural interdicts |
+| 🥈 | **Argentina** | Astreintes fuertes y ejecutables, caso Mendoza como modelo |
+| 🥉 | **Costa Rica** | Responsabilidad personal del funcionario, efecto erga omnes |
+| 4° | España | Multas coercitivas elevadas y progresivas |
+| 5° | Ecuador | Destitución efectiva, reparación integral |
+| 6° | Brasil | Multa diária funciona en casos individuales |
+| 7° | Colombia | Diseño excelente pero ejecución lenta |
+| 8° | Chile | Desacato existe pero aplicación variable |
+| 9° | Perú | Multas progresivas pero montos bajos |
+| 10° | México | Mecanismos formales pero poco efectivos |
+
+### 3. ¿Dónde el DESACATO realmente funciona?
+
+| País | ¿Funciona? | Explicación |
+|------|------------|-------------|
+| **Sudáfrica** | ✅ SÍ | Funcionarios han sido encarcelados |
+| **Costa Rica** | ✅ SÍ | Responsabilidad personal efectiva |
+| **Colombia** | ⚠️ PARCIAL | Arresto previsto pero rara vez aplicado |
+| **Argentina** | ⚠️ PARCIAL | Astreintes más efectivas que desacato penal |
+| **España** | ⚠️ PARCIAL | Multas más usadas que desacato |
+| **Ecuador** | ⚠️ PARCIAL | Destitución más común que proceso penal |
+| **Brasil** | ❌ DÉBIL | Prisión por desacato es excepcional |
+| **Perú** | ❌ DÉBIL | Destitución rara vez aplicada |
+| **México** | ❌ DÉBIL | Responsabilidad penal casi nunca activada |
+| **Chile** | ❌ DÉBIL | Desacato existe pero poco usado |
+
+### 4. ¿Qué país permite ÓRDENES ESTRUCTURALES reales?
+
+| Ranking | País | Capacidad estructural |
+|---------|------|----------------------|
+| 🥇 | **Colombia** | ECI más desarrollado (T-025, T-760), salas de seguimiento |
+| 🥈 | **Sudáfrica** | Structural interdicts con supervisión continua |
+| 🥉 | **Argentina** | Caso Mendoza como modelo, seguimiento activo |
+| 4° | Brasil | ADPF 347 adoptó ECI, pero implementación débil |
+| 5° | Costa Rica | Efecto erga omnes produce cambios sistémicos |
+| 6° | Ecuador | Reparación integral incluye garantías de no repetición |
+| 7° | Perú | Capacidad limitada, casos individuales |
+| 8° | México | Efectos generales posibles pero poco usados |
+| 9° | Chile | Recurso de protección es principalmente individual |
+| 10° | España | Amparo es subsidiario, poco estructural |
+
+### 5. ¿Qué sistema es más FORMALISTA?
+
+| Ranking | País | Nivel de formalismo | Trampa principal |
+|---------|------|--------------------|--------------------|
+| 🥇 (peor) | **México** | MUY ALTO | Definitividad, plazos, causales de improcedencia |
+| 🥈 | **Brasil** | ALTO | Prueba preconstituida, plazo 120 días |
+| 🥉 | **Perú** | ALTO | 5 requisitos del mandato |
+| 4° | **España** | ALTO | Subsidiariedad estricta |
+| 5° | **Colombia** | MEDIO | Renuencia previa obligatoria |
+| 6° | **Chile** | MEDIO | Plazo 30 días fatal |
+| 7° | **Argentina** | MEDIO | Arbitrariedad manifiesta |
+| 8° | **Ecuador** | BAJO | Principio pro actione |
+| 9° | **Sudáfrica** | BAJO | Standing muy amplio |
+| 10° (mejor) | **Costa Rica** | MUY BAJO | Mínimo formalismo |
+
+### 6. ¿Qué modelo es EXPORTABLE a Bolivia?
+
+**Recomendación**: Combinar elementos de:
+
+| País | Elemento exportable | Cómo adaptarlo a Bolivia |
+|------|--------------------|-----------------------------|
+| **Costa Rica** | Mínimo formalismo | Interpretar art. 3 Ley 254 (no formalismo) de manera amplia |
+| **Colombia** | Doctrina ECI | TCP puede declarar ECI usando art. 134 CPE |
+| **Argentina** | Astreintes | Solicitar multas coercitivas al funcionario |
+| **Ecuador** | Reparación integral | Pedir garantías de no repetición |
+| **Sudáfrica** | Supervisión judicial | Solicitar retención de jurisdicción |
+
+---
+
+## V. RANKING LITIGANTE
+
+### 🏆 TOP 3 MÁS ÚTILES PARA LITIGIO ESTRUCTURAL
+
+| Posición | País | Justificación |
+|----------|------|---------------|
+| 🥇 | **Colombia** | Doctrina ECI más desarrollada, salas de seguimiento, jurisprudencia estructural robusta. T-025 es el modelo mundial. |
+| 🥈 | **Sudáfrica** | Structural interdicts con supervisión continua, standing amplísimo, contempt efectivo. Modelo de referencia global. |
+| 🥉 | **Argentina** | Caso Mendoza demuestra capacidad estructural, astreintes fuertes, legitimación colectiva (Halabi). |
+
+### ⚖️ TOP 3 MÁS EFICACES EN EJECUCIÓN
+
+| Posición | País | Justificación |
+|----------|------|---------------|
+| 🥇 | **Sudáfrica** | Contempt of court con prisión real, funcionarios han sido encarcelados por incumplimiento. |
+| 🥈 | **Costa Rica** | Responsabilidad personal efectiva, efecto erga omnes, Sala IV muy activa. |
+| 🥉 | **Argentina** | Astreintes progresivas y ejecutables, jueces dispuestos a imponerlas. |
+
+### 🧨 TOP 3 CON MAYOR PODER COERCITIVO
+
+| Posición | País | Justificación |
+|----------|------|---------------|
+| 🥇 | **Sudáfrica** | Contempt = prisión real. No hay sistema más coercitivo. |
+| 🥈 | **España** | Multas coercitivas sin límite, progresivas, ejecutables. |
+| 🥉 | **Argentina** | Astreintes pueden ser muy elevadas y se imponen al funcionario personalmente. |
+
+---
+
+## VI. JURISDICCIONES ADICIONALES ESTRATÉGICAS
+
+### 🇪🇸 ESPAÑA
+
+**Por qué incluirla:**
+- ✅ **Astreintes fuertes**: Multas coercitivas sin límite legal fijo
+- ✅ **Ejecución efectiva**: Sistema de ejecución forzosa desarrollado
+- ✅ **Jurisprudencia exportable**: Doctrina del TC sobre ejecución de sentencias
+
+**Limitaciones:**
+- ❌ Subsidiariedad estricta del amparo
+- ❌ Proceso lento (6-12 meses)
+- ❌ Agotamiento de vía administrativa obligatorio
+
+### 🇿🇦 SUDÁFRICA
+
+**Por qué incluirla:**
+- ✅ **Desacato real**: Funcionarios han ido a prisión
+- ✅ **Supervisión continua**: Structural interdicts con retención de jurisdicción
+- ✅ **Juez gestor**: Corte supervisa activamente el cumplimiento
+- ✅ **Standing amplísimo**: Cualquier persona puede litigar en interés público
+
+**Limitaciones:**
+- ❌ Sistema de common law (diferente tradición jurídica)
+- ❌ Costos de litigio pueden ser altos
+- ❌ Tiempos variables
+
+---
+
+## VII. ENTREGABLES
+
+### A. CHECKLIST PRÁCTICO POR PAÍS
+
+#### 🇦🇷 Argentina - Amparo
+
+- [ ] Identificar norma con obligación clara
+- [ ] Documentar omisión o mora administrativa
+- [ ] Preparar prueba de arbitrariedad manifiesta
+- [ ] Verificar legitimación (individual o colectiva)
+- [ ] Redactar petitorio con astreintes
+- [ ] Incluir solicitud de medida cautelar
+- [ ] Citar Halabi si es caso colectivo
+- [ ] Citar Q.C. si es derecho social
+
+#### 🇨🇴 Colombia - AC/Tutela
+
+- [ ] Enviar requerimiento previo (15 días antes)
+- [ ] Guardar constancia de recibo
+- [ ] Verificar si mandato implica gasto (si sí, usar tutela)
+- [ ] Identificar mandato imperativo e inobjetable
+- [ ] Redactar pretensiones con plazos específicos
+- [ ] Incluir advertencia de desacato
+- [ ] Si es estructural, argumentar ECI
+- [ ] Citar T-025 si aplica
+
+#### 🇧🇷 Brasil - MS/MI
+
+- [ ] Reunir TODA la prueba documental antes de presentar
+- [ ] Verificar plazo de 120 días
+- [ ] Verificar que no hay recurso con efecto suspensivo pendiente
+- [ ] Formular direito líquido e certo
+- [ ] Solicitar liminar
+- [ ] Incluir pedido de multa diária
+- [ ] Si es omisión normativa, usar MI
+
+#### 🇲🇽 México - Amparo
+
+- [ ] Verificar agotamiento de recursos (o excepción)
+- [ ] Verificar plazo de 15 días
+- [ ] Identificar acto de autoridad (positivo u omisivo)
+- [ ] Acreditar interés jurídico o legítimo
+- [ ] Solicitar suspensión
+- [ ] Citar tratados de DDHH (art. 1 CPEUM)
+- [ ] Advertir consecuencias de incumplimiento
+
+#### 🇵🇪 Perú - Proceso de Cumplimiento
+
+- [ ] Enviar carta notarial de requerimiento (10 días antes)
+- [ ] Guardar cargo notarial
+- [ ] Verificar los 5 requisitos del mandato (STC 0168-2005)
+- [ ] Acreditar titularidad del derecho
+- [ ] Solicitar multas progresivas
+- [ ] Solicitar destitución en caso de incumplimiento
+
+#### 🇪🇨 Ecuador - Acción de Incumplimiento
+
+- [ ] Identificar norma incumplida
+- [ ] Documentar incumplimiento
+- [ ] Preparar solicitud de reparación integral
+- [ ] Incluir garantías de no repetición
+- [ ] Solicitar destitución en caso de incumplimiento
+
+#### 🇨🇱 Chile - Recurso de Protección
+
+- [ ] **VERIFICAR PLAZO DE 30 DÍAS** (fatal)
+- [ ] Identificar derecho del art. 19 afectado
+- [ ] Encuadrar como arbitrario O ilegal
+- [ ] Solicitar orden de no innovar
+- [ ] Advertir desacato
+
+#### 🇨🇷 Costa Rica - Amparo
+
+- [ ] Identificar derecho fundamental violado
+- [ ] Redactar recurso simple (sin formalidades)
+- [ ] Solicitar efecto erga omnes si aplica
+- [ ] Solicitar responsabilidad personal del funcionario
+
+---
+
+### B. MODELO DE DEMANDA TIPO (Acción de Cumplimiento)
+
+```
+SEÑOR JUEZ / TRIBUNAL [COMPETENTE]
+
+[NOMBRE DEL ACCIONANTE], con [documento de identidad], con domicilio en 
+[dirección], ante Ud. respetuosamente comparezco y digo:
+
+I. OBJETO
+
+Interpongo ACCIÓN DE CUMPLIMIENTO contra [AUTORIDAD DEMANDADA], con 
+domicilio en [dirección], a fin de que se ordene el cumplimiento del 
+[artículo X] de la [Ley/Norma Y], conforme a los siguientes fundamentos:
+
+II. LEGITIMACIÓN ACTIVA
+
+El suscrito tiene legitimación para interponer esta acción porque:
+- [Es titular del derecho / Es afectado directo / Actúa en representación de...]
+- [Base normativa de la legitimación]
+
+III. LEGITIMACIÓN PASIVA
+
+La demanda se dirige contra [autoridad] porque:
+- Es la autoridad obligada al cumplimiento de [norma]
+- Tiene competencia para [acción requerida]
+- Ha incurrido en omisión al no [acción específica]
+
+IV. HECHOS
+
+PRIMERO: [Descripción de la norma y su mandato]
+SEGUNDO: [Descripción de la omisión o incumplimiento]
+TERCERO: [Descripción del daño causado]
+CUARTO: [Requerimiento previo, si aplica]
+QUINTO: [Respuesta o silencio de la autoridad]
+
+V. EL MANDATO CLARO
+
+El [artículo X] de [norma] establece textualmente:
+
+"[TRANSCRIPCIÓN LITERAL DEL MANDATO]"
+
+Este mandato es:
+✓ VIGENTE: No ha sido derogado ni modificado
+✓ CLARO: Su sentido es unívoco e inequívoco
+✓ EXIGIBLE: No está sujeto a condición pendiente
+✓ IMPERATIVO: Usa el verbo "[deberá/está obligado/garantizará]"
+✓ OPERATIVO: No requiere reglamentación adicional
+
+VI. LA OMISIÓN INCONSTITUCIONAL
+
+La autoridad demandada ha incumplido el mandato porque:
+- [Descripción específica de la omisión]
+- [Tiempo transcurrido desde que debió cumplir]
+- [Consecuencias del incumplimiento]
+
+VII. FUNDAMENTOS DE DERECHO
+
+- [Constitución, artículos relevantes]
+- [Ley reglamentaria del mecanismo]
+- [Tratados internacionales aplicables]
+- [Jurisprudencia relevante]
+
+VIII. MEDIDA CAUTELAR
+
+Solicito se dicte MEDIDA CAUTELAR ordenando a la demandada que, mientras 
+se resuelve el fondo, proceda a [acción provisional], atendido que:
+- Existe verosimilitud del derecho (fumus boni iuris)
+- Existe peligro en la demora (periculum in mora)
+- La medida no causa perjuicio irreparable a la demandada
+
+IX. PETITORIO
+
+Por lo expuesto, solicito:
+
+PRIMERO: Admitir a trámite la presente acción de cumplimiento.
+
+SEGUNDO: Dictar medida cautelar ordenando [acción provisional].
+
+TERCERO: En sentencia definitiva, declarar que [autoridad] ha incumplido 
+el [artículo X] de [norma].
+
+CUARTO: Ordenar a [autoridad] que, en el plazo de [X] días, proceda a:
+   a) [Acción específica 1]
+   b) [Acción específica 2]
+   c) [Acción específica 3]
+
+QUINTO: Imponer multas coercitivas de [monto] por cada día de demora 
+en el cumplimiento, a cargo personal del funcionario responsable.
+
+SEXTO: Ordenar la presentación de informes de cumplimiento cada [X] días.
+
+SÉPTIMO: Advertir al funcionario responsable las consecuencias penales 
+del incumplimiento de la sentencia.
+
+OCTAVO: [Si es caso estructural] Retener jurisdicción para supervisar 
+el cumplimiento hasta su ejecución íntegra.
+
+X. PRUEBAS
+
+Ofrezco las siguientes pruebas:
+1. DOCUMENTAL:
+   - [Lista de documentos]
+2. INFORMATIVA:
+   - Oficio a [entidad] para que informe sobre [dato]
+
+XI. ANEXOS
+
+1. Copia de [documento de identidad]
+2. Copia de [norma incumplida]
+3. Copia de [requerimiento previo]
+4. Copia de [respuesta o constancia de silencio]
+5. [Otros documentos relevantes]
+
+OTROSÍ DIGO: Señalo como domicilio procesal [dirección/correo electrónico]
+
+[Lugar], [fecha]
+
+_______________________
+[FIRMA]
+[NOMBRE]
+[DOCUMENTO DE IDENTIDAD]
+```
+
+---
+
+### C. PETITORIO POTENTE (Modelo para casos estructurales)
+
+```
+PETITORIO ESTRUCTURAL
+
+Por lo expuesto, solicito a este Tribunal:
+
+I. DECLARACIONES
+
+1. DECLARAR que existe un ESTADO DE COSAS INCONSTITUCIONAL / SITUACIÓN 
+   DE INCUMPLIMIENTO ESTRUCTURAL respecto de [derecho/norma], caracterizado por:
+   - Violación masiva y generalizada de [derecho]
+   - Omisión prolongada de [autoridades]
+   - Afectación de [número] de personas
+   - Causas estructurales que requieren intervención judicial
+
+2. DECLARAR que [autoridades] han incumplido sus obligaciones 
+   constitucionales y legales establecidas en [normas].
+
+II. ÓRDENES INMEDIATAS (Plazo: 30 días)
+
+3. ORDENAR a [autoridad ejecutiva] que:
+   a) Suspenda [práctica violatoria]
+   b) Adopte [medida de protección inmediata]
+   c) Informe a este Tribunal sobre [situación actual]
+
+III. ÓRDENES DE PLANIFICACIÓN (Plazo: 90 días)
+
+4. ORDENAR a [autoridades] que presenten un PLAN DE CUMPLIMIENTO que incluya:
+   a) Diagnóstico de la situación actual
+   b) Metas específicas, medibles y verificables
+   c) Cronograma de implementación
+   d) Presupuesto requerido y fuentes de financiamiento
+   e) Responsables identificados por nombre y cargo
+   f) Indicadores de avance y cumplimiento
+
+IV. ÓRDENES DE IMPLEMENTACIÓN (Plazos diferenciados)
+
+5. ORDENAR la implementación del plan en las siguientes fases:
+   - Fase 1 (6 meses): [Medidas urgentes]
+   - Fase 2 (12 meses): [Medidas de mediano plazo]
+   - Fase 3 (24 meses): [Medidas estructurales]
+
+V. MECANISMOS DE SEGUIMIENTO
+
+6. ORDENAR la creación de una MESA DE SEGUIMIENTO integrada por:
+   - Representante del Tribunal
+   - Representantes de las entidades demandadas
+   - Representantes de los accionantes
+   - Representantes de organizaciones de la sociedad civil
+   - [Defensor del Pueblo / Ombudsman]
+
+7. ORDENAR la presentación de INFORMES PERIÓDICOS:
+   - Informes mensuales de avance
+   - Informes trimestrales de cumplimiento de metas
+   - Informe anual de evaluación integral
+
+8. ORDENAR la realización de AUDIENCIAS PÚBLICAS semestrales para:
+   - Evaluar el cumplimiento
+   - Escuchar a los afectados
+   - Ajustar las órdenes si es necesario
+
+VI. MECANISMOS DE COERCIÓN
+
+9. ADVERTIR que el incumplimiento de las órdenes de este Tribunal dará lugar a:
+   a) Multas coercitivas progresivas de [monto] por día de demora
+   b) Responsabilidad disciplinaria del funcionario
+   c) Responsabilidad penal por [delito aplicable]
+   d) Destitución del funcionario responsable
+
+10. ORDENAR que las multas coercitivas sean de cargo PERSONAL del 
+    funcionario responsable, sin posibilidad de traslado al erario público.
+
+VII. REPARACIÓN INTEGRAL
+
+11. ORDENAR medidas de REPARACIÓN INTEGRAL que incluyan:
+    a) RESTITUCIÓN: [Medidas para restablecer el derecho]
+    b) COMPENSACIÓN: [Indemnización por daños causados]
+    c) REHABILITACIÓN: [Medidas de recuperación]
+    d) SATISFACCIÓN: [Reconocimiento público del incumplimiento]
+    e) GARANTÍAS DE NO REPETICIÓN: [Reformas institucionales]
+
+VIII. RETENCIÓN DE JURISDICCIÓN
+
+12. RETENER JURISDICCIÓN sobre este caso hasta la superación completa 
+    del estado de cosas inconstitucional, verificada mediante:
+    - Cumplimiento de todas las metas del plan
+    - Indicadores que demuestren cobertura universal
+    - Ausencia de nuevas violaciones por [período]
+```
+
+---
+
+### D. CÓMO INCORPORAR ESTÁNDARES INTERAMERICANOS
+
+**Normas clave a citar:**
+
+| Instrumento | Artículo | Contenido | Uso estratégico |
+|-------------|----------|-----------|-----------------|
+| CADH | Art. 1.1 | Obligación de respetar y garantizar derechos | Base de toda demanda |
+| CADH | Art. 2 | Obligación de adoptar medidas legislativas y de otro carácter | Para omisiones normativas |
+| CADH | Art. 25 | Derecho a protección judicial efectiva | Para exigir ejecución |
+| CADH | Art. 26 | Desarrollo progresivo de DESC | Para derechos sociales |
+| Protocolo San Salvador | Art. 9 | Derecho a seguridad social | Para pensiones y beneficios |
+| Conv. Personas Mayores | Arts. 4, 6, 12 | Derechos de adultos mayores | Para casos de AM |
+
+**Jurisprudencia Corte IDH a citar:**
+
+| Caso | Año | Regla útil |
+|------|-----|------------|
+| *Baena Ricardo vs. Panamá* | 2001 | Obligación de cumplir sentencias |
+| *Cinco Pensionistas vs. Perú* | 2003 | Derechos adquiridos son protegidos |
+| *Poblete Vilches vs. Chile* | 2018 | Derechos de personas mayores |
+| *Gonzales Lluy vs. Ecuador* | 2015 | Interseccionalidad en vulnerabilidad |
+| *Lagos del Campo vs. Perú* | 2017 | Justiciabilidad directa de DESC |
+
+**Fórmula de incorporación:**
+```
+"Conforme al artículo [X] de la Constitución, los tratados de derechos 
+humanos forman parte del bloque de constitucionalidad. La Corte 
+Interamericana de Derechos Humanos, en el caso [Y], estableció que 
+[regla]. Este estándar es vinculante para [país] y debe ser aplicado 
+por este Tribunal conforme al control de convencionalidad."
+```
+
+---
+
+## VIII. BIBLIOGRAFÍA PRIMARIA VERIFICABLE
+
+### Constituciones (con enlaces oficiales)
+
+| País | Norma | Enlace oficial |
+|------|-------|----------------|
+| Argentina | CN 1994 | [infoleg.gob.ar](https://www.infoleg.gob.ar) |
+| Bolivia | CPE 2009 | [gacetaoficialdebolivia.gob.bo](https://www.gacetaoficialdebolivia.gob.bo) |
+| Brasil | CF 1988 | [planalto.gov.br](https://www.planalto.gov.br) |
+| Chile | CPR 1980 | [bcn.cl](https://www.bcn.cl) |
+| Colombia | CP 1991 | [secretariasenado.gov.co](https://www.secretariasenado.gov.co) |
+| Costa Rica | CP 1949 | [pgrweb.go.cr](https://www.pgrweb.go.cr) |
+| Ecuador | CRE 2008 | [asambleanacional.gob.ec](https://www.asambleanacional.gob.ec) |
+| España | CE 1978 | [boe.es](https://www.boe.es) |
+| México | CPEUM | [diputados.gob.mx](https://www.diputados.gob.mx) |
+| Perú | CP 1993 | [tc.gob.pe](https://www.tc.gob.pe) |
+| Sudáfrica | Constitution 1996 | [gov.za](https://www.gov.za) |
+
+### Leyes Reglamentarias
+
+| País | Norma | Enlace |
+|------|-------|--------|
+| Argentina | Ley 16.986 (Amparo) | [infoleg.gob.ar](https://www.infoleg.gob.ar) |
+| Bolivia | Ley 254 (CPC) | [lexivox.org](https://www.lexivox.org) |
+| Brasil | Lei 12.016/2009 (MS) | [planalto.gov.br](https://www.planalto.gov.br) |
+| Brasil | Lei 13.300/2016 (MI) | [planalto.gov.br](https://www.planalto.gov.br) |
+| Colombia | Ley 393/1997 (AC) | [secretariasenado.gov.co](https://www.secretariasenado.gov.co) |
+| Costa Rica | Ley 7135 (LJC) | [pgrweb.go.cr](https://www.pgrweb.go.cr) |
+| Ecuador | LOGJCC 2009 | [corteconstitucional.gob.ec](https://www.corteconstitucional.gob.ec) |
+| España | LOTC; LJCA | [boe.es](https://www.boe.es) |
+| México | Ley de Amparo 2013 | [diputados.gob.mx](https://www.diputados.gob.mx) |
+| Perú | Ley 31307 (CPC) | [leyes.congreso.gob.pe](https://www.leyes.congreso.gob.pe) |
+
+### Sentencias Clave
+
+| País | Caso | Tribunal | Enlace de verificación |
+|------|------|----------|------------------------|
+| Argentina | Halabi (2009) | CSJN | [csjn.gov.ar](https://www.csjn.gov.ar) |
+| Argentina | Q.C., S.Y. (2012) | CSJN | [csjn.gov.ar](https://www.csjn.gov.ar) |
+| Argentina | Mendoza (2008) | CSJN | [csjn.gov.ar](https://www.csjn.gov.ar) |
+| Brasil | MI 670 (2007) | STF | [stf.jus.br](https://www.stf.jus.br) |
+| Brasil | ADPF 347 (2015) | STF | [stf.jus.br](https://www.stf.jus.br) |
+| Colombia | T-025 (2004) | Corte Const. | [corteconstitucional.gov.co](https://www.corteconstitucional.gov.co) |
+| Colombia | T-760 (2008) | Corte Const. | [corteconstitucional.gov.co](https://www.corteconstitucional.gov.co) |
+| Costa Rica | Voto 1739-92 | Sala IV | [poder-judicial.go.cr](https://www.poder-judicial.go.cr) |
+| Perú | 0168-2005-PC/TC | TC | [tc.gob.pe](https://www.tc.gob.pe) |
+| Sudáfrica | Grootboom (2000) | ConCourt | [saflii.org](https://www.saflii.org) |
+| Sudáfrica | TAC (2002) | ConCourt | [saflii.org](https://www.saflii.org) |
+
+### Instrumentos Internacionales
+
+| Instrumento | Enlace |
+|-------------|--------|
+| CADH | [oas.org](https://www.oas.org) |
+| Protocolo de San Salvador | [oas.org](https://www.oas.org) |
+| Conv. Personas Mayores | [oas.org](https://www.oas.org) |
+| Jurisprudencia Corte IDH | [corteidh.or.cr](https://www.corteidh.or.cr) |
+
+---
+
+## IX. ANEXO DE VERIFICACIÓN
+
+### Ruta de verificación por país
+
+| País | Repositorio | Cómo buscar |
+|------|-------------|-------------|
+| Argentina | csjn.gov.ar | Sección "Jurisprudencia" → Búsqueda por carátula |
+| Bolivia | tribunalconstitucional.gob.bo | Sección "Jurisprudencia" → Búsqueda por número |
+| Brasil | stf.jus.br | "Jurisprudência" → "Pesquisa" → Número do processo |
+| Chile | pjud.cl | "Consulta de causas" → Rol de ingreso |
+| Colombia | corteconstitucional.gov.co | "Relatoria" → Búsqueda por número de sentencia |
+| Costa Rica | poder-judicial.go.cr | "Sala Constitucional" → "Jurisprudencia" |
+| Ecuador | corteconstitucional.gob.ec | "Sentencias" → Búsqueda por número |
+| España | tribunalconstitucional.es | "Jurisprudencia" → Búsqueda por número |
+| México | scjn.gob.mx | "Semanario Judicial" → Búsqueda por expediente |
+| Perú | tc.gob.pe | "Jurisprudencia" → Búsqueda por expediente |
+| Sudáfrica | saflii.org | Búsqueda por nombre del caso |
+| Corte IDH | corteidh.or.cr | "Casos contenciosos" → Búsqueda por país/nombre |
+
+---
+
+*Documento elaborado con enfoque de litigante constitucional estratégico. No descriptivo. Orientado a acción. Febrero 2026.*
